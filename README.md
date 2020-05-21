@@ -9,7 +9,7 @@ This is a static blog generator and starter gatsby repo. A port of [Casper](http
 Clone this repo.
 
 ```
-git clone https://github.com/scttcper/gatsby-casper.git --depth=1
+git clone https://github.com/muellenrs/research.git --depth=1
 ```
 
 Remove .git folder and setup a new one

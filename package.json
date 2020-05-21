@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-casper",
-  "description": "Casper for gatsby",
-  "version": "0.0.0",
+  "name": "muellners-casper-research",
+  "description": "Casper for gatsby by Muellners",
+  "version": "0.0.1",
   "private": true,
-  "author": "Scott Cooper <scttcper@gmail.com>",
+  "author": "Scott Cooper <scttcper@gmail.com>, Saransh Sharma ",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
