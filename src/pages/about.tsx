@@ -57,7 +57,7 @@ const About: React.FC = () => (
             <PostFullContent className="post-full-content">
               <div className="post-content">
                 <h5>
-                  A starter template for Gatsby <br /> GitHub: <a href="https://github.com/scttcper/gatsby-casper">scttcper/gatsby-casper</a>
+                  About Research @ Muellenrs <br /> GitHub: <a href="https://github.com/muellners/research"></a>
                 </h5>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo finibus leo,
