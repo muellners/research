@@ -321,7 +321,8 @@ Key Features:
 # Funding and donations
 The problem: Many people question whether donations are making it to their intended beneficiaries.
 
-1. Atix Labs:
+# 1. Atix Labs
+
 Founded: 2011
 Mission: Helping small social good enterprises gain access to (transparent) funding
 Cred: UNICEF’s Innovation Fund invested time and money in this Singapore/Argentina-based company.
