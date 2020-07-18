@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Studying blockchain services across globe for bitrupee
-image: 
+image: img/callum-shaw-555357-unsplash.jpg
 author: [Advait]
 date: 2020-06-01T07:03:47.149Z
 tags:
