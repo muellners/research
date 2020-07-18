@@ -76,7 +76,7 @@ Key Features:
 4. Instant: Provide instant payments so money arrives when customers need it.
 5. Low Cost: Capitalize on operational and cost efficiencies to further grow your business.
  
-# 5.VEEM
+# 5. VEEM
 
 Industry: Fintech, Cryptocurrency
 
@@ -93,7 +93,7 @@ Key Features:
 4. Affordable: Hidden fees blindside small businesses and decrease cash flow. Enjoy low costs and the best foreign exchange rates on payments.
 
 
-# 6.IVY 
+# 6. VY 
 
 Industry: Fintech
 
@@ -158,36 +158,49 @@ Key Features:
 3. Start Investing instantly: Start building a right-sized portfolio today. Investing is now affordable for everyone.
 4. Crypto your way: The Abra app allows users to exchange any asset with any other in-app asset, anytime, anywhere.
  
-9. SALT LENDING
+# 10. SALT LENDING
+
 Industry: Fintech, Lending
+
 Location: Denver, Colorado
+
 What it does: SALT’s platform allows users to leverage their cryptocurrency for cash loans. Borrowers can lock into cash loans, from 1-36 months, by leveraging cryptos like Bitcoin, Ether or even Dogecoin. The company’s platform is available in a majority of US states and multiple countries and loans start at $5,000.
+
 Key Features:
-1.The Crypto-Backed Loan
-2.SALT’s offer comprehensive insurance coverage over users collateral.
-a.Crime Insurance
-b.Cyber Liability Insurance
-3.Monitor User Loan Health 
+1. The Crypto-Backed Loan
+2. SALT’s offer comprehensive insurance coverage over users collateral.
+  a. Crime Insurance
+  b. Cyber Liability Insurance
+  3. Monitor User Loan Health 
  
-10. GEMINI
+# 11. GEMINI
+
 Industry: Fintech, Cryptocurrency, Trading
+
 Location: New York, New York
+
 What it does: Gemini is a digital asset exchange that allows users to buy, sell and trade cryptocurrencies. The company’s platform, using blockchain for both trading and cybersecurity purposes, allows individuals and institutional investors to trade everything from Bitcoin, to Litecoin and Ether.
+
 Key Features:
-1.Gemini is a simple, elegant, and secure way to build your bitcoin and crypto portfolio. Buying, selling, and storing your cryptocurrency has never been easier.
-2.A digital marketplace to buy, sell, and store digital art and collectibles, or “nifties” (non-fungible tokens).
-3.Whether you’re an experienced trader or just getting started, Gemini has the tools for you.
- 4.Gemini has the largest insurance coverage limit of any crypto custodian in the world.
+1. Gemini is a simple, elegant, and secure way to build your bitcoin and crypto portfolio. Buying, selling, and storing your cryptocurrency has never been easier.
+2. A digital marketplace to buy, sell, and store digital art and collectibles, or “nifties” (non-fungible tokens).
+3. Whether you’re an experienced trader or just getting started, Gemini has the tools for you.
+4. Gemini has the largest insurance coverage limit of any crypto custodian in the world.
  
-11. CELSIUS NETWORK
+# 12. CELSIUS NETWORK
+
 Industry: Fintech, Lending
+
 Location: New York, New York
+
 What it does: Like SALT, Celsius Network also allows users to leverage their crypto for cash loans. Instead of relying on traditional credit scores to determine interest rates, the company’s Loan-to-Value (LTV) Ratio reviews how much collateral a customer can offer and bases interest rates off of that number. Since June 2018, Celsius Network has done over $600 million in coin loans and has funded the largest single loan of $5 million.
+
 Key Features:
-1.Celsius Network lets you earn interest on your crypto and instantly borrow against it. No fees ever. 
-2.Borrow dollars while they still exist at the lowest interest rates on the market.
-3.Celsius Network shares at least 80% of its revenues with the Celsius community in the form of weekly interest payments. All users earn up to 10%*.
-4.Instantly send Bitcoin and other cryptocurrencies like never before – no wallet required.
+1. Celsius Network lets you earn interest on your crypto and instantly borrow against it. No fees ever. 
+2. Borrow dollars while they still exist at the lowest interest rates on the market.
+3. Celsius Network shares at least 80% of its revenues with the Celsius community in the form of weekly interest payments. All users earn up to 10%*.
+4. Instantly send Bitcoin and other cryptocurrencies like never before – no wallet required.
+
 12. COINBASE
 Industry: Fintech
 Location: San Francisco, California
