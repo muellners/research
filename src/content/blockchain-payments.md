@@ -13,7 +13,7 @@ tags:
 This study is conducted by Advait on blockchain payment systems. This study is primitive in nature and has only attributed
 industry impact
 ---  
-1. AIRFOX
+#1. AIRFOX
 Industry: Fintech, Trading
 
 Location: Boston, Massachusetts
@@ -25,7 +25,7 @@ Key Features:
 3.Machine Learning generates alternative credit scores using data science.
 4.Consumers and businesses are directly connected.
  
-2. CIRCLE
+#2. CIRCLE
 Industry: Fintech, Cryptocurrency
 Location: Boston, Massachusetts
 How it’s using blockchain in payments: Circle Pay blockchain allows for the safe transfer of money between different individuals, currencies and countries. The Circle Pay function is available in 29 countries and in U.S. dollars, Euros and British Pounds. Each money transfer or payment is encrypted on a blockchain to ensure a safe transaction.
