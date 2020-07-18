@@ -25,10 +25,10 @@ How it’s using blockchain in payments: Airfox is a decentralized platform that
 Industry Impact: Airfox struck a deal with Brazilian retail giant Via Varejo to deploy its digital banking and payment platform in its stores. Airfox plans to release an app in 2019 to bring its digital payment platform to Via Varejo’s 50 million customers.
 
 Key Features: 
-1.Money is accessible through an easy-to-use mobile app and at physical retail locations.
-2.Creditworthiness can be calculated for people using phone data and in-app activity.
-3.Machine Learning generates alternative credit scores using data science.
-4.Consumers and businesses are directly connected.
+1. Money is accessible through an easy-to-use mobile app and at physical retail locations.
+2. Creditworthiness can be calculated for people using phone data and in-app activity.
+3. Machine Learning generates alternative credit scores using data science.
+4. Consumers and businesses are directly connected.
  
 # 2. CIRCLE
 
@@ -41,9 +41,9 @@ How it’s using blockchain in payments: Circle Pay blockchain allows for the sa
 Industry Impact: The Circle Pay app acts as a group messaging app with a payment feature integrated within. In-between sending your friends selfies or memes, you can also transfer money cross-border and cross-currency without any fees.
 
 Key Features:
-1.The best platform to run an internet business using new standards for money powered by USD Coin(USSDC) the fastest growing regulated stablecoin. The stability of a dollar at the speed of a cryptocurrency.
-2.APIs by developers for developers. Building the next generation of financial and internet commerce products with a comprehensive suite of stablecoin payments and wallets APIs.
-3.Run your business on USDC for a more global,scalable, and efficient alternative to traditional banking rails with a Circle Business Account.
+1. The best platform to run an internet business using new standards for money powered by USD Coin(USSDC) the fastest growing regulated stablecoin. The stability of a dollar at the speed of a cryptocurrency.
+2. APIs by developers for developers. Building the next generation of financial and internet commerce products with a comprehensive suite of stablecoin payments and wallets APIs.
+3. Run your business on USDC for a more global,scalable, and efficient alternative to traditional banking rails with a Circle Business Account.
  
 # 3. ZCASH
 
@@ -56,57 +56,72 @@ How it’s using blockchain in payments: Zcash is a cryptocurrency exchange plat
 Industry Impact: Zcash already boasts a wide list of companies that accept the crypto. Companies accepting the digital currency as payment are in industries like apparel, web services, medical, restaurants/coffee shops and nonprofit.  
 
 Key Features:
-1.ZCash is a privacy-protecting, digital currency built on strong science.
-2.Privacy within your control. Shielded ZCash transactions are completely private.
+1. ZCash is a privacy-protecting, digital currency built on strong science.
+2. Privacy within your control. Shielded ZCash transactions are completely private.
  
-3. RIPPLE
+# 4. RIPPLE
+
 Industry: Fintech, Trading, Cryptocurrency
 
 Location: San Francisco, California
+
 How it’s using blockchain in payments: Ripple’s blockchain lets users send money and make payments across the globe. The company’s RippleNet platform facilitates the quick transaction of payments and requires lower capital amounts for cross-border payments. The company boasts a network of more than 175 banks and commercial platforms that use RippleNet for cross-border payments.
+
 Industry Impact: Payment provider TransferGo announced it was using Ripple’s RippleNet payment platform to launch a remittance corridor to India. With Ripple’s platform, TransferGo is hoping to speed up its Europe-to-India payment processing from 2 to 3 days to just a few seconds.
+
 Key Features:
-1.RippleNet makes it easy for its diverse network of 300+ financial institutions worldwide to enable faser, lower-cost payments around the world.
-2.Everywhere: Expand your reach by offering more places and ways to move money.
-3.Reliable: Build trust by increasing visibility and eliminating payment failure.
-4.Instant: Provide instant payments so money arrives when customers need it.
+1. RippleNet makes it easy for its diverse network of 300+ financial institutions worldwide to enable faser, lower-cost payments around the world.
+2. Everywhere: Expand your reach by offering more places and ways to move money.
+3. Reliable: Build trust by increasing visibility and eliminating payment failure.
+4. Instant: Provide instant payments so money arrives when customers need it.
 5. Low Cost: Capitalize on operational and cost efficiencies to further grow your business.
  
-4.VEEM
+# 5.VEEM
+
 Industry: Fintech, Cryptocurrency
 
 Location: San Francisco, California
+
 How it’s using blockchain in payments: Veem is a blockchain-backed payment platform for small businesses to send and receive money in local currency. The company’s ledger technology secures, tracks and reconciles payments, so small businesses have a transparent history of all incoming and outgoing payments.
+
 Industry Impact: Veem has seen its blockchain-based payment transactions double from a year earlier. They now account for more than 62% of the company’s total transactions.
+
 Key Features:
-1.Simple: Running a business is complicated. Payments shouldn’t be. With Veem, set up your account in minutes to pay and get paid in a few clicks.
-2.Transparent: Never worry about where your money is, or when it will arrive. Get notified and follow your money with Veem’s real-time payment tracker.
-3.Secure: Have you ever lost a payment? Veem’s robust encryption, fraud prevention, and bank compliance keeps your business safe.
+1. Simple: Running a business is complicated. Payments shouldn’t be. With Veem, set up your account in minutes to pay and get paid in a few clicks.
+2. Transparent: Never worry about where your money is, or when it will arrive. Get notified and follow your money with Veem’s real-time payment tracker.
+3. Secure: Have you ever lost a payment? Veem’s robust encryption, fraud prevention, and bank compliance keeps your business safe.
+4. Affordable: Hidden fees blindside small businesses and decrease cash flow. Enjoy low costs and the best foreign exchange rates on payments.
 
-4.Affordable: Hidden fees blindside small businesses and decrease cash flow. Enjoy low costs and the best foreign exchange rates on payments.
 
+# 6.IVY 
 
-5.IVY
 Industry: Fintech
 
 Location: Beverly Hills, California
+
 How it’s using blockchain in payments: Ivy is a blockchain-based technology for international crypto business payments that need verification. Businesses use the IVY token to facilitate the transfer of digital assets and access 74 identifiable know-your-customer (KYC) data points, which lets them receive transparent payments from carefully-vetted sources on the blockchain.
+
 Industry Impact: Ivy recently announced a partnership with Goldfields Money, an Australian digital bank, to commercialize and spread the use of Ivy’s blockchain payment system to an international community.
 Ivy is currently under complete rebranding and repositioning exercise as of June, 2020.
  
-6. GLUWA
+# 7. GLUWA
+
 Industry: Fintech, Trading
+
 Location: San Francisco, California
+
 How it’s using blockchain in payments: Gluwa uses blockchain for their borderless financial platform. The company combines a payment function with a digital wallet to help users manage and easily transfer money to people all over the world.
+
 Industry Impact: Gluwa users can trade the company’s Gluwacoin for fiat currency at a 1:1 fixed rate. The stablecoin acts as a bridge between the crypto and fiat worlds due to its compatibility with real-world currencies.
+
 Key Features:
-1.Borderless Financial Infrastructure: Gluwa encapsulates useful blockchain technologies as a web layer, so you can easily take advantage of the borderless economy.
-2.Service Components:
-a.Wallet
-b.Payment
-c.Micro-Lending
-d.Exchange
-e.Credit Payment
+1. Borderless Financial Infrastructure: Gluwa encapsulates useful blockchain technologies as a web layer, so you can easily take advantage of the borderless economy.
+2. Service Components:
+a. Wallet
+b. Payment
+c. Micro-Lending
+d. Exchange
+e. Credit Payment
  
 7. STELLAR
 Industry: Fintech, Trading
