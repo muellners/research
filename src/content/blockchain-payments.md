@@ -13,21 +13,26 @@ tags:
 This study is conducted by Advait on blockchain payment systems. This study is primitive in nature and has only attributed
 industry impact
 ---  
-#1. AIRFOX
+# 1. AIRFOX
+
 Industry: Fintech, Trading
 
 Location: Boston, Massachusetts
 How it’s using blockchain in payments: Airfox is a decentralized platform that lets those in underbanked parts of the world make payments, receive small loans and send money all over the globe. The Ethereum-based platform uses the company’s AirToken to help facilitate peer-to-peer payments for utility bills, goods and services.
 Industry Impact: Airfox struck a deal with Brazilian retail giant Via Varejo to deploy its digital banking and payment platform in its stores. Airfox plans to release an app in 2019 to bring its digital payment platform to Via Varejo’s 50 million customers.
+
 Key Features: 
 1.Money is accessible through an easy-to-use mobile app and at physical retail locations.
 2.Creditworthiness can be calculated for people using phone data and in-app activity.
 3.Machine Learning generates alternative credit scores using data science.
 4.Consumers and businesses are directly connected.
  
-#2. CIRCLE
+# 2. CIRCLE
+
 Industry: Fintech, Cryptocurrency
+
 Location: Boston, Massachusetts
+
 How it’s using blockchain in payments: Circle Pay blockchain allows for the safe transfer of money between different individuals, currencies and countries. The Circle Pay function is available in 29 countries and in U.S. dollars, Euros and British Pounds. Each money transfer or payment is encrypted on a blockchain to ensure a safe transaction.
 Industry Impact: The Circle Pay app acts as a group messaging app with a payment feature integrated within. In-between sending your friends selfies or memes, you can also transfer money cross-border and cross-currency without any fees.
 Key Features:
