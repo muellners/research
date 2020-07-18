@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Studying blockchain services across globe for bitrupee
+title: Studying blockchain services across the globe for BitRupee
 image: img/callum-shaw-555357-unsplash.jpg
-author: [Advait]
+author: [Advait M.]
 date: 2020-06-01T07:03:47.149Z
 tags:
   - blockchain
@@ -117,37 +117,46 @@ Industry Impact: Gluwa users can trade the company’s Gluwacoin for fiat curren
 Key Features:
 1. Borderless Financial Infrastructure: Gluwa encapsulates useful blockchain technologies as a web layer, so you can easily take advantage of the borderless economy.
 2. Service Components:
-a. Wallet
-b. Payment
-c. Micro-Lending
-d. Exchange
-e. Credit Payment
+  a. Wallet
+  b. Payment
+  c. Micro-Lending
+  d. Exchange
+  e. Credit Payment
  
-7. STELLAR
+# 8. STELLAR
+
 Industry: Fintech, Trading
 
 Location: San Francisco, California
+
 How it’s using blockchain in payments: Stellar’s blockchain payment platform fights poverty by connecting people and low-cost financial institutions. The Stellar network features lower remittance costs, mobile banking, real-time settlements (in 2-5 seconds) and an automatic currency exchange.  
+
 Industry Impact: Consulting giant Deloitte uses Stellar to test out different payment methods for banking clients outside North America.
+
 Key Features:
-1.Stellar is an open network for storing and moving money.
-2.Stellar makes it possible to create, send, and trade digital representations of all forms of money: dollars, pesos, bitcoin, pretty much anything. It’s designed so all the world’s financial systems can work together on a single network.
-3.Stellar's API and SDKs are ready to help you transform the world of finance, and the network’s currency connections could give even a small company the power and reach of an international bank.
-4.Global Payments App:Leverage the many currency-backed tokens already on the Stellar network.
-5.Asset Exchanges:Use Stellar's built-in decentralized exchange for crypto, forex, or securities. Users can swap between tokens using simple functions built into the protocol.
+1. Stellar is an open network for storing and moving money.
+2. Stellar makes it possible to create, send, and trade digital representations of all forms of money: dollars, pesos, bitcoin, pretty much anything. It’s designed so all the world’s financial systems can work together on a single network.
+3. Stellar's API and SDKs are ready to help you transform the world of finance, and the network’s currency connections could give even a small company the power and reach of an international bank.
+4. Global Payments App:Leverage the many currency-backed tokens already on the Stellar network.
+5. Asset Exchanges:Use Stellar's built-in decentralized exchange for crypto, forex, or securities. Users can swap between tokens using simple functions built into the protocol.
 6. Micropayment Services:Power payments of any size with Stellar's low, flat fees and fast transactions.
-7.Designed for Developers: Stellar has the documentation, tooling, and support to help you get your project up quickly.
+7. Designed for Developers: Stellar has the documentation, tooling, and support to help you get your project up quickly.
  
-8. ABRA
+# 9. ABRA
+
 Industry: Fintech, Cryptocurrency, Trading
+
 Location: Mountain View, California
+
 How it’s using blockchain in payments: Abra’s peer-to-peer platform lets users transfer digital currencies to other users using blockchain. Abra users can fund their digital wallets with 50 different fiat currencies or more than 30 different cryptocurrencies, including Bitcoin, Litecoin, Zcash, Augur and Stellar.   
+
 Industry Impact: Residents in the Single Euro Payments Area (SEPA), as well as European Union nations, can now transfer euros or other national currencies into their digital wallets on Abra.
+
 Key Features:
-1.Simple to Use: Abra’s 5-star app is simple to use, making cryptocurrency investing accessible for everyone.
-2.Unprecedented access: Buy, sell, or exchange over 100 cryptocurrencies from a single app, including new stablecoin deposit and withdrawal options.
-3.Start Investing instantly: Start building a right-sized portfolio today. Investing is now affordable for everyone.
-4.Crypto your way: The Abra app allows users to exchange any asset with any other in-app asset, anytime, anywhere.
+1. Simple to Use: Abra’s 5-star app is simple to use, making cryptocurrency investing accessible for everyone.
+2. Unprecedented access: Buy, sell, or exchange over 100 cryptocurrencies from a single app, including new stablecoin deposit and withdrawal options.
+3. Start Investing instantly: Start building a right-sized portfolio today. Investing is now affordable for everyone.
+4. Crypto your way: The Abra app allows users to exchange any asset with any other in-app asset, anytime, anywhere.
  
 9. SALT LENDING
 Industry: Fintech, Lending
