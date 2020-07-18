@@ -201,33 +201,41 @@ Key Features:
 3. Celsius Network shares at least 80% of its revenues with the Celsius community in the form of weekly interest payments. All users earn up to 10%*.
 4. Instantly send Bitcoin and other cryptocurrencies like never before – no wallet required.
 
-12. COINBASE
+# 13. COINBASE
+
 Industry: Fintech
+
 Location: San Francisco, California
+
 What it does: Coinbase is a digital portfolio that lets users buy and sell cryptocurrency. The company’s technology makes buying and managing cryptos easy with features like recurring buys and vault protection. Since 2012, Coinbase has seen over $150 billion exchanged by more than 20 million people.
+
 Key Features:
-1.Buy and sell popular digital currencies, keep track of them in one place.
-2.Invest in cryptocurrency slowly over time by scheduling buys daily, weekly, or monthly.
-3.For added security, store your funds in a vault with time delayed withdrawals.
-4.Coinbase stores the vast majority of the digital assets in secure offline storage.
-5.Cryptocurrency stored on Coinbase’s servers is covered by our insurance policy.
-6.Coinbase supports a variety of the most popular digital currencies.
+1. Buy and sell popular digital currencies, keep track of them in one place.
+2. Invest in cryptocurrency slowly over time by scheduling buys daily, weekly, or monthly.
+3. For added security, store your funds in a vault with time delayed withdrawals.
+4. Coinbase stores the vast majority of the digital assets in secure offline storage.
+5. Cryptocurrency stored on Coinbase’s servers is covered by our insurance policy.
+6. Coinbase supports a variety of the most popular digital currencies.
  
-13. TRADOVE
+# 14. TRADOVE
+
 Industry: Social Media, E-commerce
+
 Location: Palo Alto, California
+
 What it does: TraDove is a B2B social network connecting buyers and sellers. The company’s blockchain platform introduces the correct buyers to the correct sellers for their products, manages supply chain and acts as a communication tool for potential customers. Amazon, John Deere, Lowes and IKEA are just some of the global brands using TraDove to find the right buyers and sellers.
+
 Key Features:
-1.TraDove targets and eliminates the pain points for business Buyers and Sellers 
-2.Connect and collaborate with the best-suited buyers and sellers worldwide using our AI technology.
-3.Receive alerts when relevant Buyers post their supply or purchasing needs. You can also search for leads worldwide.
-4.Post your supply needs and TraDove will notify the best-suited sellers worldwide, which gives you an opportunity to receive multiple proposals and get the best deal.
-5.Share your product information to over 250,000 users and learn what’s new in the procurement world.
-6.Learn from business professionals in your industry and share your ideas on specific topics by joining group discussions.
-7.Read reviews and endorse fellow users, products & services, and more. TraDove authenticates all users through its own proprietary authentication protocols.
-8.Trade using our Blockchain Payment Solution and eliminate the payment complexity associated with international transactions.
+1. TraDove targets and eliminates the pain points for business Buyers and Sellers 
+2. Connect and collaborate with the best-suited buyers and sellers worldwide using our AI technology.
+3. Receive alerts when relevant Buyers post their supply or purchasing needs. You can also search for leads worldwide.
+4. Post your supply needs and TraDove will notify the best-suited sellers worldwide, which gives you an opportunity to receive multiple proposals and get the best deal.
+5. Share your product information to over 250,000 users and learn what’s new in the procurement world.
+6. Learn from business professionals in your industry and share your ideas on specific topics by joining group discussions.
+7. Read reviews and endorse fellow users, products & services, and more. TraDove authenticates all users through its own proprietary authentication protocols.
+8. Trade using our Blockchain Payment Solution and eliminate the payment complexity associated with international transactions.
  
-14. ROBINHOOD
+# 15. ROBINHOOD
 Industry: Fintech
 Location: Menlo Park, California
 What it does: Robinhood is a stock brokerage app that lets users buy and sell stocks, ETFs and cryptocurrency. The fintech giant recently entered the blockchain realm by letting customers invest in everything from Bitcoin to Litecoin. With more than $500 million in funding, Robinhood is one of the major financial players currently embracing blockchain.
