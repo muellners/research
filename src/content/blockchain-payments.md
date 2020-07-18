@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Studying blockchain services across globe for bitrupee
-image: img/testimg-cover.jpg
+image: 
 author: [Advait]
 date: 2020-06-01T07:03:47.149Z
 tags:
@@ -11,7 +11,8 @@ tags:
 ---
 
 This study is conducted by Advait on blockchain payment systems. This study is primitive in nature and has only attributed
-industry impact
+industry impact.
+
 ---  
 # 1. AIRFOX
 
