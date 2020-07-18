@@ -324,56 +324,87 @@ The problem: Many people question whether donations are making it to their inten
 # 1. Atix Labs
 
 Founded: 2011
+
 Mission: Helping small social good enterprises gain access to (transparent) funding
+
 Cred: UNICEF’s Innovation Fund invested time and money in this Singapore/Argentina-based company.
  
-2. Binance Charity Foundation
+# 2. Binance Charity Foundation
+
 Launched: 2018
+
 Mission: Bringing accountability to charitable donations
+
 Cred: Its platform features only a small handful of charity projects, but one funded 20 beneficiaries affected by a landslide in Uganda’s Bududa District.
  
-3. BitGive Foundation
+# 3. BitGive Foundation
+
 Founded: 2013
+
 Mission: Letting donors follow their bitcoin donations step-by-step
+
 Cred: Its early partners included nonprofits like Save the Children and the Water Project, and the organization has  worked with others across the globe ever since.
  
-4. Blockchain4Humanity
+# 4. Blockchain4Humanity
+
 Founded: 2017
+
 Mission: Acting as an accelerator for blockchain projects that aim to affect social change
+
 Cred: The organization has given out two rounds of awards in which they’ve helped facilitate funding for 41 blockchain social good platforms, including BitGive.
  
-5. Disberse
+# 5. Disberse
+
 Founded: 2016
+
 Mission: Making it more efficient to send and receive funds between donors and aid organizations around the world
+
 Cred: Disberse has enacted pilot programs in Albania, Rwanda, and Ukraine and counts partners such as Oxfam, The Netherlands Red Cross, and Start Network.
  
-6. Fidelity Charitable
+# 6. Fidelity Charitable
+
 Started accepting cryptocurrency: 2015
+
 Mission: Letting people make charitable donations using bitcoin
+
 Cred: Fidelity is one of the world’s largest asset managers, managing more than $2,459 billion worth of assets as of March 2018.
  
-7. GiftCoin
+# 7. GiftCoin
+
 ICO started: March 2018
+
 Mission: Letting charitable donors track how and when their money is spent
+
 Cred: GiftCoin is running two pilot programs, one with established charity payment processor Network For Good, another with an forthcoming platform called Charity Checkout. It’s been tested out by small charities like Ourmala, which offers yoga classes to refugees.
  
-8. Giveth
+# 8. Giveth
+
 Founded: 2016
+
 Mission: Removing intermediaries from charitable giving
+
 Cred: The Giveth decentralized app is currently live in beta and is running six campaigns, which have cumulatively received more than 644 ETH (more than $67,100 at time of writing).
  
-9. Pineapple Fund
+# 9. Pineapple Fund
+
 Founded: 2017 (though it’s now defunct)
+
 Mission: Using bitcoin to fund multiple charitable organizations
+
 Cred: When live, the Pineapple Fund raised $55,750,000 across 60 charities listed on the project’s website. Charities spanned all sectors, including environmental conservation, The Internet Archive, the ACLU, and drug information website Erowid.
  
-10. Ripple for Good
+# 10. Ripple for Good
+
 Founded: 2018
+
 Mission: Supporting organizations that increase global financial inclusion
+
 Cred: It’s backed by Ripple, which has ample financial resources and a robust team, and is partnered with DonorsChoose.org, an initiative that helps public schools.
  
-11. The Giving Block
-Founded: 2018
-Mission: Helping nonprofits receive cryptocurrency donations/working with blockchain-related nonprofits
-Cred: The Giving Block has worked directly with a number of nonprofits to help them set up cryptocurrency donations, including the Lupus Foundation.
+# 11. The Giving Block
 
+Founded: 2018
+
+Mission: Helping nonprofits receive cryptocurrency donations/working with blockchain-related nonprofits
+
+Cred: The Giving Block has worked directly with a number of nonprofits to help them set up cryptocurrency donations, including the Lupus Foundation.
