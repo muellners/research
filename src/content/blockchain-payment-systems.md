@@ -236,66 +236,91 @@ Key Features:
 8. Trade using our Blockchain Payment Solution and eliminate the payment complexity associated with international transactions.
  
 # 15. ROBINHOOD
+
 Industry: Fintech
+
 Location: Menlo Park, California
+
 What it does: Robinhood is a stock brokerage app that lets users buy and sell stocks, ETFs and cryptocurrency. The fintech giant recently entered the blockchain realm by letting customers invest in everything from Bitcoin to Litecoin. With more than $500 million in funding, Robinhood is one of the major financial players currently embracing blockchain.
+
 Key Features:
-1.Robinhood, a pioneer of commission-free investing, gives you more ways to make your money work harder.
-2.Robinood’s goal is to make investing in financial markets more affordable, more intuitive, and more fun, no matter how much experience you have (or don’t have).
+1. Robinhood, a pioneer of commission-free investing, gives you more ways to make your money work harder.
+2. Robinood’s goal is to make investing in financial markets more affordable, more intuitive, and more fun, no matter how much experience you have (or don’t have).
+3. Set up customized news and notifications to stay on top of your assets as casually or as relentlessly as you like. Controlling the flow of info is up to you
+4. Keep your portfolio in your pocket. Everything you need to manage your assets is available in a single app.
 
-3.Set up customized news and notifications to stay on top of your assets as casually or as relentlessly as you like. Controlling the flow of info is up to you
+# 16. BLOCKSTACK
 
-4.Keep your portfolio in your pocket. Everything you need to manage your assets is available in a single app.
-
-
-15. BLOCKSTACK
 Industry: Internet of Things, Open Source, Developer Platform
+
 Location: New York, New York
+
 What it does: Blockstack is an internet for decentralized apps. The Blockstack platform helps engineers build blockchain-based apps that lets developers own their own encrypted data without the need for a server. Users can join the company’s community and safely discover hundreds of blockchain apps.
+
 Key Features:
-1.Blockstack apps give users direct ownership of their internet assets and protect user privacy.
-2.Secure your data with Blockstack apps and get a universal login
-3.Build blockchain-powered apps in as little as an hour
+1. Blockstack apps give users direct ownership of their internet assets and protect user privacy.
+2. Secure your data with Blockstack apps and get a universal login
+3. Build blockchain-powered apps in as little as an hour
  
-16. TOKKEN
+# 17. TOKKEN
+
 Industry: Fintech, Cannatech
+
 Location: Denver
+
 What it does: Tokken gives online banking privileges to previously cash-intensive industries like cannabis. The company's infusion of blockchain and online banking allows such industries to grow in a safe and traceable way. The technology helps cut down on money laundering and creates a completely transparent data ledger.
  
-17. FILECOIN
+# 18. FILECOIN
+
 Industry: Fintech
+
 Location: San Francisco
+
 What it does: Filecoin incentivizes individuals for using the company’s mining software on the unused cloud storage space of personal computers, hard drives and even data centers. Because data mining takes up so much storage, the company is giving miners their own Filecoins, which can be traded for US dollars, Bitcoin and Ether. By making cloud storage a commodity, Filecoin is turning blockchain technology into a competitive storage market. 
+
 Key Features:
-1.Put your unused storage to work by becoming a Filecoin miner. Use the Filecoin mining software to get paid for fulfilling storage requests and hosting files on the global Filecoin market.
-2.Filecoin will be traded on a number of exchanges and supported by multiple cryptocurrency wallets, allowing you to easily exchange Filecoin for other currencies like 
+1. Put your unused storage to work by becoming a Filecoin miner. Use the Filecoin mining software to get paid for fulfilling storage requests and hosting files on the global Filecoin market.
+2. Filecoin will be traded on a number of exchanges and supported by multiple cryptocurrency wallets, allowing you to easily exchange Filecoin for other currencies like 
 US Dollars, Bitcoin and Ether.
-3.Clients can tune their storage strategy to suit their needs in redundancy, speed of retrieval and cost. Filecoin storage and retrieval markets make miners compete to give you flexible options at the best prices.
-4.The Filecoin network achieves staggering economies of scale by allowing anyone worldwide to participate as storage providers.
+3. Clients can tune their storage strategy to suit their needs in redundancy, speed of retrieval and cost. Filecoin storage and retrieval markets make miners compete to give you flexible options at the best prices.
+4. The Filecoin network achieves staggering economies of scale by allowing anyone worldwide to participate as storage providers.
  
-18.TRUSTTOKEN
+# 19. TRUSTTOKEN
+
 Industry: Fintech
+
 Location: San Francisco, California
+
 What it does: TrustToken lets users create asset-backed tokens that can easily be bought and sold. The company’s blockchain infrastructure allows an asset to issue its own coin. For example, TrustToken permits everything from rental properties to commodities to release their own coin, resulting in fractional control and ownership over the asset.
 
-19.LEMONADE
+# 20.LEMONADE
+
 Industry: Artificial Intelligence, Fintech, Insurance
+
 Location: San Francisco, California
+
 What it does: Lemonade combines artificial intelligence and blockchain to help users receive renters and homeowners insurance at reasonable rates. The company uses AI to create the optimal flat-fee rate for an insurance-seeker, then it’s blockchain-based smart contracts help to lock a user into a payment agreement. By using blockchain, Lemonade is able to approve insurance claims and payouts within minutes, rather than days.
+
 Key Features:
-1.The first regulated stablecoin fully backed by the US Dollar.
-2.Use a stablecoin with the longest proven track record of liquidity and redeemability.
-3.Attract more global users and trading volume through international fiat markets with TrueCurrencies.
-4.Make our stablecoins work harder for you by taking advantage of our TrueCurrencies partnerships.
+1. The first regulated stablecoin fully backed by the US Dollar.
+2. Use a stablecoin with the longest proven track record of liquidity and redeemability.
+3. Attract more global users and trading volume through international fiat markets with TrueCurrencies.
+4. Make our stablecoins work harder for you by taking advantage of our TrueCurrencies partnerships.
  
-20.OMEGA GRID
+# 21. OMEGA GRID
+
 Industry: Fintech, Cleantech
+
 Location: Chicago
+
 What it does: Chicago-based Omega Grid’s blockchain technology lets energy businesses, as well as individuals, manage peer-to-peer energy sales. Founded in 2017, the company is using blockchain to turn energy into a managed, profitable asset.
+
 Key Features:
-1.Earn rewards for using clean, local energy
-Funding and donations
+1. Earn rewards for using clean, local energy
+
+# Funding and donations
 The problem: Many people question whether donations are making it to their intended beneficiaries.
+
 1. Atix Labs:
 Founded: 2011
 Mission: Helping small social good enterprises gain access to (transparent) funding
