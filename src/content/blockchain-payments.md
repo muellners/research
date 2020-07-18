@@ -18,7 +18,9 @@ industry impact
 Industry: Fintech, Trading
 
 Location: Boston, Massachusetts
+
 How it’s using blockchain in payments: Airfox is a decentralized platform that lets those in underbanked parts of the world make payments, receive small loans and send money all over the globe. The Ethereum-based platform uses the company’s AirToken to help facilitate peer-to-peer payments for utility bills, goods and services.
+
 Industry Impact: Airfox struck a deal with Brazilian retail giant Via Varejo to deploy its digital banking and payment platform in its stores. Airfox plans to release an app in 2019 to bring its digital payment platform to Via Varejo’s 50 million customers.
 
 Key Features: 
@@ -34,18 +36,24 @@ Industry: Fintech, Cryptocurrency
 Location: Boston, Massachusetts
 
 How it’s using blockchain in payments: Circle Pay blockchain allows for the safe transfer of money between different individuals, currencies and countries. The Circle Pay function is available in 29 countries and in U.S. dollars, Euros and British Pounds. Each money transfer or payment is encrypted on a blockchain to ensure a safe transaction.
+
 Industry Impact: The Circle Pay app acts as a group messaging app with a payment feature integrated within. In-between sending your friends selfies or memes, you can also transfer money cross-border and cross-currency without any fees.
+
 Key Features:
 1.The best platform to run an internet business using new standards for money powered by USD Coin(USSDC) the fastest growing regulated stablecoin. The stability of a dollar at the speed of a cryptocurrency.
 2.APIs by developers for developers. Building the next generation of financial and internet commerce products with a comprehensive suite of stablecoin payments and wallets APIs.
 3.Run your business on USDC for a more global,scalable, and efficient alternative to traditional banking rails with a Circle Business Account.
  
-3.ZCASH
+# 3. ZCASH
+
 Industry: Fintech, Cryptocurrency
 
 Location: Denver, Colorado
+
 How it’s using blockchain in payments: Zcash is a cryptocurrency exchange platform using its own cryptocurrency (Zcash) to help people pay for goods and services. You can use the company’s crypto to buy a house, purchase electronics or even to donate to a nonprofit.  
+
 Industry Impact: Zcash already boasts a wide list of companies that accept the crypto. Companies accepting the digital currency as payment are in industries like apparel, web services, medical, restaurants/coffee shops and nonprofit.  
+
 Key Features:
 1.ZCash is a privacy-protecting, digital currency built on strong science.
 2.Privacy within your control. Shielded ZCash transactions are completely private.
