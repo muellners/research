@@ -18,7 +18,7 @@ development, deployment, and support of technically complex products. Usually,
 the framework contains only the blockchain framework and its basic modules, and
 all specific components are implemented by the developer based on them. Thereby,
 a high development rate is achieved while maintaining the stability and
-performance of the final product. 1.Hyperledger: Developer: Linux Foundation   
+performance of the final product. 1.Hyperledger: Developer: Linux Foundation
  Founded: 2016
 
      Network Type: Public and Private
@@ -225,7 +225,7 @@ accomplishes consensus by using multi-threading as well as a delegated
 proof-of-stake algorithm. They have their own community forum named as EOS
 Forum.
 
-12.Stellar Developer: Stellar Development Foundation   
+12.Stellar Developer: Stellar Development Foundation
  Founded: 2014
 
         Network Type: Public and Private
