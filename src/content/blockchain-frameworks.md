@@ -1,4 +1,17 @@
-BLOCKCHAIN FRAMEWORK
+---
+layout: post
+title: Research on Blockchain Frameworks across the globe for BitRupee
+image: img/callum-shaw-555357-unsplash.jpg
+author: [Advait M.]
+date: 2020-06-01T07:03:47.149Z
+tags:
+  - blockchain
+  - bitcoin
+  - payment
+  - frameworks
+---
+
+BLOCKCHAIN FRAMEWORKS
 
 The blockchain frameworks are a software solution that simplifies the development, deployment, and support of technically complex products. Usually, the framework contains only the blockchain framework and its basic modules, and all specific components are implemented by the developer based on them. Thereby, a high development rate is achieved while maintaining the stability and performance of the final product.
 1.Hyperledger:
@@ -102,3 +115,109 @@ Exonum is a blockchain framework developed for enterprise projects and launched 
         Source model: Open Source
 
 Cryptonomex launched the Graphene platform for deploying blockchains. This framework is mostly written in C++ and has a modular structure which makes it very adaptable. Initially, Graphene was created as the foundation of Bitshares, a cryptocurrency exchange. Yet the platform became so popular that it has found many applications in different areas.Graphene offers a long list of financial services. And a lot of financial establishments choose Graphene because of its transparency and reliability.
+
+9.Ripple
+       Developer: Ripple Labs
+
+       Founded: 2012
+
+       Network Type: Permissioned and Private
+
+       Source model: Open Source
+
+Ripple is aimed at connecting payment providers, digital asset exchanges, banks, and corporations via a blockchain network, RippleNet without any chargebacks. It allows global payments through a digital asset called XRP or Ripple.
+Built on the advanced blockchain technology, XRP is more scalable and faster than other blockchains. Ripple uses probabilistic voting to reach the consensus between nodes.
+
+10.Quorum
+           Developer: Ethereum Developers and JP Morgan Chase
+
+         Founded: 
+
+         Network Type: Permissioned and Private
+
+         Source model: Open Source
+
+Founded by J.P. Morgan, Quorum is an enterprise-focused version of Ethereum. It modifies Ethereum’s core and therefore, can incorporate the Ethereum updates seamlessly and quickly.
+Quorum is  open-source and free to use the blockchain platform in perpetuity. Unlike other blockchain platforms, it uses vote based and different algorithms to process hundreds of transactions per second. Designed to be permissioned, the networks using Quorum won’t be open to everyone. It can handle applications requiring high throughput processing and speed of private transactions.
+Quorum resolves the issue of the confidentiality of records that Ethereum and other blockchains failed to handle by introducing private and public on-chain transactions.
+
+11.EOS
+          Developer: EOSIO Core Arbitration Forum
+
+        Founded: 2018
+
+        Network Type: Permissioned and Private
+
+        Source model: Open Source
+
+Launched as open-source software in June 2018, EOS is a blockchain platform founded by a private company, Block.one. It is designed for the development of dApps (Decentralized applications). The company distributed one billion ERC-20 tokens to ensure widespread distribution of their cryptocurrency and allow anyone to use the EOS blockchain after it was released.
+The goal of the platform is to offer decentralized application’s hosting, decentralized storage of enterprise solutions and smart contract capability, solving the scalability issues of Ethereum and Bitcoin. Also, it eliminates the fees for all users, i.e., no one needs to pay to avail the benefits of a dApp based on EOS.
+EOS accomplishes consensus by using multi-threading as well as a delegated proof-of-stake algorithm. They have their own community forum named as EOS Forum.
+
+12.Stellar
+          Developer: Stellar Development Foundation
+        
+        Founded: 2014
+
+        Network Type: Public and Private
+
+        Source model: Open Source
+
+Stellar is a distributed blockchain based ledger used for facilitating cross-asset transfers of value. It can also deal with exchanges between cryptocurrencies and fiat based currencies. It is possible to build banking tools, smart devices and mobile wallets using the Stellar network.
+Stellar Consensus Protocol (SCP) makes it possible to reach consensus without depending on a closed system for recording financial transactions. Having a set of provable safety properties, SCP optimizes for safety over liveness by halting the progress of the network until a consensus can be reached in case of misbehaving nodes or partitions.
+As compared to the decentralized proof-of-work and proof-of-stake algorithms, SCP has modest financial and computing requirements, reducing the barrier to entry and opening up the financial system to new participants.
+
+13.Dragonchain
+          Developer: Dragonchain Foundation
+
+        Founded: 2014
+
+        Network Type: Public, Private and Hybrid
+
+        Source model: Open Source
+
+Dragonchain’s Blockchain as a Service Platform is designed to provide developers and enterprises the useful resources required to develop blockchain applications in minutes.
+Originally developed at the Walt Disney Company in 2014 and open-sourced later in 2016, the Dragonchain platform has been specifically designed for enterprises. It’s public/private hybrid blockchain platform offers ease of use and high performance to develop and deploy blockchain apps and microservice-based smart contracts.
+Originally developed at the Walt Disney Company in 2014 and open-sourced later in 2016, the Dragonchain platform has been specifically designed for enterprises. It’s public/private hybrid blockchain platform offers ease of use and high performance to develop and deploy blockchain apps and microservice-based smart contracts.
+ The platform can support any programming language, including Python, Node.js, Java, C# and Go. With five levels of consensus, Dragonchain offers a wide spectrum of trust and allows users to use multiple proof protocols.
+
+
+14.NEO
+          Developer: On-chain governance through votes of NEO holders and Off-chain governance through NEO Foundation support.
+
+        Founded: 2014
+
+        Network Type: Permissioned and Private
+
+        Source model: Open Source
+
+Neo was founded by the same duo who established blockchain R&D company OnChain in Shanghai – Da Hongfei and Erik Zhang.
+Designed to develop scalable decentralized applications, the base asset of the NEO blockchain is NEO token. The role of NEO token is to generate GAS tokens which can be used to pay transaction fees to run applications on the network.
+Neo uses Delegated Byzantine Fault Tolerance as its consensus algorithm. The creators of Neo selected this protocol because it allows better performance and scaling as compared to other consensus mechanisms.
+
+
+15.Bitcoin
+          Developer: Satoshi Nakamoto
+
+        Founded: 2009
+
+        Network Type: Public
+
+        Source model: Open Source
+
+The framework of the first and most famous cryptocurrency in the world. It was created in 2009 by a person or a group of people under the common pseudonym Satoshi Nakamoto. Bitcoin blockchain is the progenitor of a significant part of the first twenty of cryptocurrencies.
+Now the Bitcoin framework is losing in popularity with the rest of the blockchains, since it is old and slow. Bitcoin has the largest capitalization and audience, and it also develops, as a decentralized system - the community decides in which direction the network will develop, what update to bring and how to wait.
+
+
+16.IOTA
+         Developer: IOTA Foundation
+
+        Founded: 2016
+
+        Network Type: Public and Private
+
+        Source model: Open Source
+ 
+ Platform, customized to the work of Internet of Things (IoT). IoT is a global add-on over the normal Internet, whose users are not people of flesh and blood, but digital devices - from electronic watches on your wrist to a blast furnace in the production hall. The workshop itself can also be digitized and connected to the IoT.
+In its structure, the IOTA framework is not similar to Ethereum, Bitcoin, or other popular blockchains, since there is no traditional linear block chain structure. This structure limits the scalability of the network, so IOTA instead uses the Tangle algorithm: for the user to receive confirmation for his transaction, he must confirm the transactions of two other users.
+
