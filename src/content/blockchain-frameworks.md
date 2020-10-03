@@ -22,10 +22,10 @@ performance of the final product.
 
 ## 1. Hyperledger
 
-Developer: Linux Foundation  
-Founded: 2016  
-Network Type: Public and Private  
-Source model: Open Source   
+Developer: Linux Foundation
+Founded: 2016
+Network Type: Public and Private
+Source model: Open Source
 In 2016, the Linux Foundation started the Hyperledger project. Hyperledger is
 open-source and doesn’t support any cryptocurrency. It was designed as an
 environment where different communities and individual developers can meet and
@@ -45,9 +45,9 @@ contract blockchain node.
 
 ## 2. Ethereum
 
-Developer: Ethereum Developers  
-Founded: 2013  
-Network Type: Public and Permissionless  
+Developer: Ethereum Developers
+Founded: 2013
+Network Type: Public and Permissionless
 Source model: Open Source
 
 Founded in late 2013, Ethereum is an open-source and blockchain based
@@ -65,9 +65,9 @@ product enhancements and updates.
 
 ## 3. Multichain
 
-Developer: Coin Science  
-Founded: 2013  
-Network Type: Private  
+Developer: Coin Science
+Founded: 2013
+Network Type: Private
 Source model: Open Source
 
 The MultiChain framework belongs to the Coin Science company. This is an
@@ -83,9 +83,9 @@ problems with scaling.
 
 ## 4. Eris
 
-Developer: Monax Industries  
-Founded: 2014  
-Network Type: Permissioned  
+Developer: Monax Industries
+Founded: 2014
+Network Type: Permissioned
 Source model: Open Source
 
 Eris is free software that allows anyone to build their own secure, low-cost,
@@ -99,9 +99,9 @@ is a controllable, Proof-of-Stake based blockchain design.
 
 ## 5. R3 Corda
 
-Developer: R3  
-Founded: 2015  
-Network Type: Permissioned and Private  
+Developer: R3
+Founded: 2015
+Network Type: Permissioned and Private
 Source model: Open Source
 
 Corda is a product of R3. The company wanted to design a framework specifically
@@ -115,8 +115,8 @@ you can get it all with complete privacy.
 
 ## 6. OpenChain
 
-Developer: Coinprism  
-Founded: 2000  
+Developer: Coinprism
+Founded: 2000
 Network Type: Private Source model: Open Source
 
 This framework was launched by Coinprism. It’s designed for issuing and managing
@@ -134,9 +134,9 @@ transparency.
 
 ## 7. Exonum
 
-Developer: Bitfury Group  
-Founded: 2017  
-Network Type: Permissioned and Private  
+Developer: Bitfury Group
+Founded: 2017
+Network Type: Permissioned and Private
 Source model: Open Source
 
 Exonum is a blockchain framework developed for enterprise projects and launched
@@ -151,9 +151,9 @@ bookkeeping and all sorts of document forgery.
 
 ## 8. Graphene
 
-Developer: Cryptonomex  
-Founded: 2012  
-Network Type: Public and Private  
+Developer: Cryptonomex
+Founded: 2012
+Network Type: Public and Private
 Source model: Open Source
 
 Cryptonomex launched the Graphene platform for deploying blockchains. This
@@ -166,9 +166,9 @@ transparency and reliability.
 
 ## 9. Ripple
 
-Developer: Ripple Labs  
-Founded: 2012  
-Network Type: Permissioned and Private  
+Developer: Ripple Labs
+Founded: 2012
+Network Type: Permissioned and Private
 Source model: Open Source
 
 Ripple is aimed at connecting payment providers, digital asset exchanges, banks,
@@ -180,9 +180,9 @@ nodes.
 
 ## 10. Quorum
 
-Developer: Ethereum Developers and JP Morgan Chase  
-Founded:  
-Network Type: Permissioned and Private  
+Developer: Ethereum Developers and JP Morgan Chase
+Founded:
+Network Type: Permissioned and Private
 Source model: Open Source
 
 Founded by J.P. Morgan, Quorum is an enterprise-focused version of Ethereum. It
@@ -198,9 +198,9 @@ private and public on-chain transactions.
 
 ## 11. EOS
 
-Developer: EOSIO Core Arbitration Forum  
-Founded: 2018  
-Network Type: Permissioned and Private  
+Developer: EOSIO Core Arbitration Forum
+Founded: 2018
+Network Type: Permissioned and Private
 Source model: Open Source
 
 Launched as open-source software in June 2018, EOS is a blockchain platform
@@ -218,9 +218,9 @@ Forum.
 
 ## 12. Stellar
 
-Developer: Stellar Development Foundation  
-Founded: 2014  
-Network Type: Public and Private  
+Developer: Stellar Development Foundation
+Founded: 2014
+Network Type: Public and Private
 Source model: Open Source
 
 Stellar is a distributed blockchain based ledger used for facilitating
@@ -238,9 +238,9 @@ to new participants.
 
 ## 13. Dragonchain
 
-Developer: Dragonchain Foundation  
-Founded: 2014  
-Network Type: Public, Private and Hybrid  
+Developer: Dragonchain Foundation
+Founded: 2014
+Network Type: Public, Private and Hybrid
 Source model: Open Source
 
 Dragonchain’s Blockchain as a Service Platform is designed to provide developers
@@ -261,9 +261,9 @@ allows users to use multiple proof protocols.
 ## 14. NEO
 
 Developer: On-chain governance through votes of NEO holders and Off-chain
-governance through NEO Foundation support.  
-Founded: 2014  
-Network Type: Permissioned and Private  
+governance through NEO Foundation support.
+Founded: 2014
+Network Type: Permissioned and Private
 Source model: Open Source
 
 Neo was founded by the same duo who established blockchain R&D company OnChain
@@ -277,9 +277,9 @@ compared to other consensus mechanisms.
 
 ## 15. Bitcoin
 
-Developer: Satoshi Nakamoto  
-Founded: 2009  
-Network Type: Public  
+Developer: Satoshi Nakamoto
+Founded: 2009
+Network Type: Public
 Source model: Open Source
 
 The framework of the first and most famous cryptocurrency in the world. It was
@@ -293,9 +293,9 @@ develop, what update to bring and how to wait.
 
 ## 16. IOTA
 
-Developer: IOTA Foundation  
-Founded: 2016  
-Network Type: Public and Private  
+Developer: IOTA Foundation
+Founded: 2016
+Network Type: Public and Private
 Source model: Open Source
 
 Platform, customized to the work of Internet of Things (IoT). IoT is a global
