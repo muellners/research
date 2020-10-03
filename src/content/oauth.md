@@ -45,3 +45,83 @@ Basic signature workflow.
 OpenID is an open standard and decentralized authentication protocol. Promoted by the non-profit OpenID Foundation, it allows users to be authenticated by co-operating sites (known as relying parties, or RP) using a third-party service, eliminating the need for webmasters to provide their own ad hoc login systems, and allowing users to log into multiple unrelated websites without having to have a separate identity and password for each. Users create accounts by selecting an OpenID identity provider and then use those accounts to sign onto any website that accepts OpenID authentication. Several large organizations either issue or accept OpenIDs on their websites, according to the OpenID Foundation.
 The OpenID standard provides a framework for the communication that must take place between the identity provider and the OpenID acceptor (the "relying party"). An extension to the standard facilitates the transfer of user attributes, such as name and gender, from the OpenID identity provider to the relying party (each relying party may request a different set of attributes, depending on its requirements). The OpenID protocol does not rely on a central authority to authenticate a user's identity. Moreover, neither services nor the OpenID standard may mandate a specific means by which to authenticate users, allowing for approaches ranging from the common (such as passwords) to the novel (such as smart cards or biometrics).
 
+## List of notable OAuth service providers:
+
+| Service Provider      | OAuth Protocol        | OpenID Connect |
+|-----------------------|-----------------------|----------------|
+| 500px                 | 1.0a                  |                |
+| Amazon                | 2.0                   |                |
+| Apple                 | 2.0                   | Yes            |
+| Basecamp              | 2.0                   | No             |
+| Battle.net            | 2.0                   |                |
+| Bitbucket             | 1.0a 2.0              | No             |
+| bitly                 | 2.0                   |                |
+| Box                   | 2.0                   |                |
+| Cloud Foundry         | 2.0                   |                |
+| Dailymotion           |  2.0 draft 11         |                |
+| Deutsche Telekom      | 2.0                   |                |
+| deviantART            |  2.0 drafts 10 and 15 |                |
+| Discogs               |  1.0a                 |                |
+| Discord               | 2.0                   |                |
+| Dropbox               |  1.0, 2.0             |                |
+| Etsy                  | 1.0                   |                |
+| Evernote              | 1.0a                  |                |
+| Facebook              |  2.0 draft 12         | No             |
+| FatSecret             | 1.0, 2.0              |                |
+| Fitbit                | 2.0                   |                |
+| Flickr                | 1.0a                  |                |
+| Formstack             | 2.0                   |                |
+| Foursquare            | 2.0                   |                |
+| GitHub                | 2.0                   | No             |
+| Goodreads             | 1.0                   |                |
+| Google                | 2.0                   | Yes            |
+| Google App Engine     | 1.0a, 2.0             | Yes            |
+| Groundspeak           | 1.0                   |                |
+| Huddle                | 2.0                   |                |
+| Imgur                 | 2.0                   |                |
+| Instagram             | 2.0                   | No             |
+| Intel Cloud Services  | 2.0                   |                |
+| Jive Software         | 1.0a, 2.0             |                |
+| Keycloak              | 2.0                   | Yes            |
+| LinkedIn              | 1.0a, 2.0             | No             |
+| Microsoft             | 2.0                   | Yes            |
+| Mixi                  | 1.0                   |                |
+| MySpace               | 1.0a                  |                |
+| Netflix               | 1.0a                  |                |
+| NetIQ                 | 1.0a, 2.0             | Yes            |
+| Okta                  | 1.0a, 2.0             | Yes            |
+| OpenAM                | 2.0                   |                |
+| OpenStreetMap         | 1.0, 1.0a             |                |
+| OpenTable             | 1.0a                  |                |
+| ORCID                 | 2.0                   |                |
+| PayPal                | 2.0                   |                |
+| Ping Identity         | 2.0                   |                |
+| Pixiv                 | 2.0                   |                |
+| Plurk                 | 1.0a                  |                |
+| Reddit                | 2.0                   |                |
+| Salesforce.com        | 1.0a, 2.0             | Yes            |
+| Sina Weibo            | 2.0                   |                |
+| Spotify               | 2.0                   |  No            |
+| Stack Exchange        | 2.0                   |                |
+| StatusNet             | 1.0a                  |                |
+| Strava                | 2.0                   |                |
+| Stripe                | 2.0                   |                |
+| Trello                | 1.0                   |                |
+| Tumblr                | 1.0a                  |                |
+| Twitch                | 2.0                   |                |
+| Twitter               | 1.0a, 2.0             | No             |
+| Ubuntu One            | 1.0                   | No             |
+| Viadeo                | 2.0                   |                |
+| Vimeo                 | 2.0                   | No             |
+| VK                    | 2.0                   | No             |
+| WeChat                | 2.0                   | No             |
+| Withings              | 1.0                   |                |
+| Woocommerce           | 1.0a                  |                |
+| Wordpress             | 1.0a                  |                |
+| WSO2 Identity Server  | 1.0a, 2.0             | Yes            |
+| Xero                  | 1.0a                  |                |
+| XING                  | 2.0                   |                |
+| Yahoo!                | 1.0a, 2.0             |                |
+| Yammer                | 2.0                   |                |
+| Yandex                | 2.0                   |                |
+| Yelp                  | 2.0                   |                |
