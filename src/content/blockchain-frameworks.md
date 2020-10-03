@@ -5,7 +5,7 @@ development, deployment, and support of technically complex products. Usually,
 the framework contains only the blockchain framework and its basic modules, and
 all specific components are implemented by the developer based on them. Thereby,
 a high development rate is achieved while maintaining the stability and
-performance of the final product. 1.Hyperledger: Developer: Linux Foundation   
+performance of the final product. 1.Hyperledger: Developer: Linux Foundation
  Founded: 2016
 
      Network Type: Public and Private
