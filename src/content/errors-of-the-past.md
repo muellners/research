@@ -12,7 +12,7 @@ tags:
   - open source
   - Apache Fineract
 ---
-In India, rural communities are historically the people for whom services offered by high-street banks represent an exclusive source of liquidity, product innovations and financial democracy.This article explores the role of open source technology in the MFI sector.
+In India, rural communities are historically the people for whom services offered by high-street banks represent an elusive source of liquidity, product innovations and financial democracy.This article explores the role of open source technology in the MFI sector.
 ---
 
 This post is written by
