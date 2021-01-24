@@ -49,7 +49,7 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Research@Muellners',
+  title: 'Research by Muellners',
   description: 'Ideas and thoughts for Open Products',
   coverImage: 'img/blog-cover.png',
   logo: 'img/logo_new.png',
@@ -62,7 +62,7 @@ const config: WebsiteConfig = {
   mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
   mailchimpEmailFieldName: 'MERGE0',
   googleSiteVerification: 'GoogleCode',
-  footer: 'is based on Gatsby Casper and Developed by Muellners Internet Foundation',
+  footer: 'is based on Gatsby Casper and Developed by Muellners® Foundation, Denmark CVR: 41008407 ',
 };
 
 export default config;
