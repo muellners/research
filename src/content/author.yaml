@@ -1,29 +1,44 @@
-- id: Saransh
+- id: Saransh Sharma
   avatar: avatars/ghost.png
-  bio: The professional publishing platform
+  bio: Research Director
   twitter: TryGhost
   facebook: ghost
   website: https://saranshsharma.me/
-  location: San Francisco
-- id: Ankit
+  location: Constantly Travelling!
+- id: Ankit M.
   avatar: avatars/ghost.png
-  bio: This is another test author with a profile background image
+  bio: Founder
   twitter: TryGhost
   facebook: ghost
   website: https://ghost.org/
-  location: San Francisco
+  location: Denmark
   profile_image: img/alex-knight-326705-unsplash.jpg
 - id: Advait M.
   avatar: avatars/ghost.png
-  bio: Fellow at Muellenrs
+  bio: Fellow at Muellners
   twitter: ghost
   facebook: ghost
   website: https://somewebsite.com
-  location: Pune
-- id: Himani
+  location: Pune, India
+- id: Himani Parigot
   avatar: avatars/ghost.png
-  bio: Fellow at Muellenrs
+  bio: Fellow at Muellners
   twitter: ghost
   facebook: Himani Parigot
   website: https://somewebsite.com
-  location: mcleodganj
+  location: North India
+- id: SJ Stapleton
+  avatar: avatars/ghost.png
+  bio: Learn Fellow at Muellners
+  twitter: ghost
+  facebook: Sarah
+  website: https://somewebsite.com
+  location: Denmark
+- id: Anshul Bhardwaj
+  avatar: avatars/ghost.png
+  bio: Research Assistant and fellow at Muellners
+  twitter: TryGhost
+  facebook: ghost
+  website: https://ghost.org/
+  location: Italy
+  profile_image: img/alex-knight-326705-unsplash.jpg
