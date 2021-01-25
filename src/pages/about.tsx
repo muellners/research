@@ -57,17 +57,17 @@ const About: React.FC = () => (
             <PostFullContent className="post-full-content">
               <div className="post-content">
                 <h5>
-                  About Research @ Muellenrs <br /> GitHub: <a href="https://github.com/muellners/research"></a>
+                  About Research @ Muellners <br /> GitHub: <a href="https://github.com/muellners/research"></a>
                 </h5>
                 <p>
-                  As an organization, we maintain a portfolio of research projects driven by
-                  fundamental research, new product innovation, product contribution and infrastructure goals,
-                   while providing individuals and teams the freedom to emphasize specific types of work.
+                  As an organization, we maintain a portfolio of research projects driven by our
+                  fundamental research goals, new product innovations, product contribution, and infrastructure goals.
+                   
                    We strive to create an environment conducive to many different types of research across
                    many different time scales and levels of risk.
                 </p>
                 <p>
-                  Our goal is to create a research environment rich in opportunities for product impact, to build a
+                  Our goal is to create a research environment, rich in opportunities for product impact, to build a
                   product environment that actively benefits from research, and to provide our staff the freedom to
                   work on important research problems that are not tied to immediate product needs.
                   Some of the most exciting research enables new products, or even new businesses,
