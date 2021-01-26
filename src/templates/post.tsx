@@ -122,7 +122,7 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
     <IndexLayout className="post-template">
       <Helmet>
         <html lang={config.lang} />
-        <title>{post.frontmatter.title}</title>
+        <title>{post.frontmatter.title} : By Muellners Research</title>
 
         <meta name="description" content={post.excerpt} />
         <meta property="og:site_name" content={config.title} />

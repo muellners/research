@@ -3,8 +3,8 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Muellners Research Portal',
-    description: 'A port of the casper blog built by gatsby for research @ Muellners',
+    title: 'Muellners Research Resources',
+    description: 'Research Resources and literature, blogs, position paper, white papers by Muellners INC, released via Muellners Foundation into open source',
     siteUrl: 'https://research.muellners.org', // full path to blog - no ending slash
   },
   mapping: {
@@ -54,7 +54,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://gatsby-casper.netlify.com',
+        siteUrl: 'https://research.muellners.org',
       },
     },
     'gatsby-plugin-emotion',
