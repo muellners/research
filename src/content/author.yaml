@@ -47,3 +47,10 @@
   facebook: ghost
   website: https://somewebsite.com
   location: Cameroon
+  - id: Devendra
+  avatar: avatars/ghost.png
+  bio: Fellow at Muellners
+  twitter: de_villa7
+  facebook: ghost
+  website: https://devilla.github.io
+  location: India
