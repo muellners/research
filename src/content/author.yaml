@@ -5,6 +5,7 @@
   facebook: ghost
   website: https://saranshsharma.me/
   location: Globe
+  profileImage: img/bridge.jpg
 - id: Ankit
   avatar: avatars/ghost.png
   bio: Founder
@@ -12,6 +13,7 @@
   facebook: ghost
   website: https://ghost.org/
   location: Copenhagen Denmark
+  profileImage: img/bridge.jpg
 - id: Advait M.
   avatar: avatars/ghost.png
   bio: Fellow at Muellners
@@ -19,6 +21,7 @@
   facebook: ghost
   website: https://somewebsite.com
   location: Pune
+  profileImage: img/bridge.jpg
 - id: Himani
   avatar: avatars/ghost.png
   bio: Fellow at Muellners
@@ -26,6 +29,7 @@
   facebook: Himani Parigot
   website: https://somewebsite.com
   location: India
+  profileImage: img/bridge.jpg
 - id: SJ Stapelton
   avatar: avatars/ghost.png
   bio: Fellow at Muellners
@@ -33,6 +37,7 @@
   facebook: Sarah
   website: https://somewebsite.com
   location: Denmark
+  profileImage: img/bridge.jpg
 - id: Anshul Bhardwaj
   avatar: avatars/ghost.png
   bio: Research Assistant
@@ -40,10 +45,12 @@
   facebook: ghost
   website: https://ghost.org/
   location: Italy
-  - id: Kaze Nasser
+  profileImage: img/bridge.jpg
+- id: Kaze Nasser
   avatar: avatars/ghost.png
   bio: Product Developer at Muellners
   twitter: ghost
   facebook: ghost
   website: https://somewebsite.com
   location: Cameroon
+  profileImage: img/bridge.jpg
