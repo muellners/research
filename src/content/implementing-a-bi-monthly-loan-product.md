@@ -38,7 +38,7 @@ To create a new loan product that qualifies as a semi monthly product, it&#39;s 
 - ![](img/implementing-loan-rescheduler/img2.png)
 - Complete the remaining steps, review and submit your loan product.
 
-You can now create a new loan account with the above loan product. You can refer to this[guide](https://docs.mifos.org/user-manual/for-operational-users-mifos-x-web-app/accounts-and-transactions/loan-accounts/how-to-create-a-loan-account-application).
+You can now create a new loan account with the above loan product. You can refer to this [guide](https://docs.mifos.org/user-manual/for-operational-users-mifos-x-web-app/accounts-and-transactions/loan-accounts/how-to-create-a-loan-account-application).
 
 ## But, what really happens here?
 
@@ -74,10 +74,10 @@ _The leap year criteria shows up for a loan life cycle running during the year 2
 
 The implementation will not be complete without testing. 2 major types of tests were made; testing using the Fineract integration test framework and testing using the Mifos X client.
 
-You can refer to this[document](https://docs.google.com/document/d/1JZShhE-pk_JBMMCd17pw_TKDgfLHq_w1_eeXIDMHb2g/edit) for test coverage using the Fineract integration test framework
+You can refer to this [document](https://docs.google.com/document/d/1JZShhE-pk_JBMMCd17pw_TKDgfLHq_w1_eeXIDMHb2g/edit) for test coverage using the Fineract integration test framework
 
 You can see another predominant examples from our case study where 10 and 25th of each month are used as test dates. However, this feature also contains a lot many permutations and combinations of two dates in each month. You should see the videos I have published for this.
 
-I created a YouTube video playlist also to present the test cases that I covered for this module using the Mifos X client. You can check them out[here](https://www.youtube.com/playlist?list=PLeYrfyYpmjaR9TylGfvj6TpUO_fAhDXuN).
+I created a YouTube video playlist also to present the test cases that I covered for this module using the Mifos X client. You can check them out [here](https://www.youtube.com/playlist?list=PLeYrfyYpmjaR9TylGfvj6TpUO_fAhDXuN).
 
 ![](img/implementing-loan-rescheduler/img8.png)
