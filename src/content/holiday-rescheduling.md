@@ -42,7 +42,7 @@ You can configure one of these holiday periods and make it ready for reschedulin
 
 Create a holiday for any duration of your choice.Remember to activate it. In the screenshot, I am trying to set up a holiday in the past to no avail. I will consider this example in the later part of the blog.
 
-[](img/holiday-rescheduling/img1.png)
+![](img/holiday-rescheduling/img1.png)
 
 RESULT: The Holiday is marked Active and system wide Holiday scheduler should automatedly reschedule all loans when the holiday actually arrives in the future.
 
@@ -52,7 +52,7 @@ RESULT: The Holiday is marked Active and system wide Holiday scheduler should au
 
 _Let us dive into this use case with the following example. Let us say I wanted to change schedules of the following loan in the past. It is a semi monthly loan example that I have taken._
 
-[](img/holiday-rescheduling/img2.png)
+![](img/holiday-rescheduling/img2.png)
 
 _At the database level, holidays look like this; This case shows php my admin entries for two test holidays defined from 1st Jan to 30 or 31st Jan._
 
