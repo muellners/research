@@ -15,7 +15,7 @@ But first what, is a semi monthly product. As the name suggests, a semi monthly 
 
 _A semi monthly loan schedule when each month, the repayment date falls on 15/30 looks like following:_
 
-![](img/implementing-loan-rescheduler/img1.png)
+![](img/implementing-loan-scheduler/img1.png)
 
 The need for a semi monthly product came up during a case study in 2020 that Muellners actively pursued and has the following base conditions:
 
@@ -35,7 +35,7 @@ To create a new loan product that qualifies as a semi monthly product, it&#39;s 
   - Nominal Interest Rate: 0.777
   - Repaid Every: 2, semi month
 - Your loan product terms should like this afterwards:
-- ![](img/implementing-loan-rescheduler/img2.png)
+- ![](img/implementing-loan-scheduler/img2.png)
 - Complete the remaining steps, review and submit your loan product.
 
 You can now create a new loan account with the above loan product. You can refer to this [guide](https://docs.mifos.org/user-manual/for-operational-users-mifos-x-web-app/accounts-and-transactions/loan-accounts/how-to-create-a-loan-account-application).
@@ -46,19 +46,19 @@ Now, I will detail what happens under the hood for this new loan scheduling feat
 
 _The errors that I saw are following;_
 
-![](img/implementing-loan-rescheduler/img3.png)
+![](img/implementing-loan-scheduler/img3.png)
 
 _I overcame this and we were able to create loan products with a semi month frequency definition. Of course this required a periodic interest rate to go in as a Nominal Interest Rate._
 
-![](img/implementing-loan-rescheduler/img4.png)
+![](img/implementing-loan-scheduler/img4.png)
 
-![](img/implementing-loan-rescheduler/img5.png)
+![](img/implementing-loan-scheduler/img5.png)
 
 _In the above screenshot, Finally able to configure a loan product with semi monthly definition. Phew._
 
 But, there is no support for a semi monthly repayment strategy and to integrate this new feature successfully, some changes to the Fineract infrastructure were made:
 
-1. **Database changes:** The following amendments were made to the m\_loan, m\_loan\_product,m\_loan\_repayment\_schedule. ![](img/implementing-loan-rescheduler/img6.png)
+1. **Database changes:** The following amendments were made to the m\_loan, m\_loan\_product,m\_loan\_repayment\_schedule. ![](img/implementing-loan-scheduler/img6.png)
 2. **Code changes:**
 	  - First and utmost was to add the 2 major components needed for the semi monthly module which were the first and second payment dates for the loan life cycle.
 	  - Corresponding fields were added to the UI for choosing a semi monthly loan frequency and entering a start and end date.
@@ -70,7 +70,7 @@ But, there is no support for a semi monthly repayment strategy and to integrate 
 
 _The leap year criteria shows up for a loan life cycle running during the year 2020. You can see a stable repayment schedule in the screenshot below:_
 
-![](img/implementing-loan-rescheduler/img7.png)
+![](img/implementing-loan-scheduler/img7.png)
 
 The implementation will not be complete without testing. 2 major types of tests were made; testing using the Fineract integration test framework and testing using the Mifos X client.
 
@@ -80,4 +80,4 @@ You can see another predominant examples from our case study where 10 and 25th o
 
 I created a YouTube video playlist also to present the test cases that I covered for this module using the Mifos X client. You can check them out [here](https://www.youtube.com/playlist?list=PLeYrfyYpmjaR9TylGfvj6TpUO_fAhDXuN).
 
-![](img/implementing-loan-rescheduler/img8.png)
+![](img/implementing-loan-scheduler/img8.png)
