@@ -19,6 +19,7 @@ On Avalanche Blockchain
 To exchange value over digital platforms there has been a demand of using cryptographic based currencies,
 
 **Price Stability Mechanisms**
+
 Target Price: The Target Price is initially denominated in Euro and starts at 1, translating to a 1:1 Euro soft peg. The FINS Target Price has two primary functions on the Finscale Platform: 
 1) It is used to calculate the collateral-to-debt ratio of a CDP, and 
 2) It is used to determine the value of collateral assets Finscale holders receive in the case of a global settlement.
