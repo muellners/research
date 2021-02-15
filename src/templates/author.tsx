@@ -51,7 +51,7 @@ interface AuthorTemplateProps {
       twitter?: string;
       facebook?: string;
       location?: string;
-      profile_image?: {
+      profileImage?: {
         childImageSharp: {
           fluid: FluidObject;
         };
@@ -209,7 +209,7 @@ export const pageQuery = graphql`
       bio
       facebook
       location
-      profile_image {
+      profileImage {
         childImageSharp {
           fluid(maxWidth: 3720) {
             ...GatsbyImageSharpFluid
