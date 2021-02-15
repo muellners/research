@@ -52,7 +52,7 @@ FINS Proof of Reserves configuration is novel because it simplifies the process 
 Each FINS issued will be backed by the equivalent amount of currency unit (one FINS equals
 one Euro). By combining the above crypto and fiat accounting processes, we conclude the
 “Solvency Equation” for the FINS System.
-- The Solvency Equation is simply FINS = EURO.
+- **The Solvency Equation is simply FINS = EURO.**
 
 ## Goals
 * Develop and release a stablecoin i.e. Finscale Stablecoin (FINS) which is pegged to EURO price and backed by some asset (say equivalent EURO).
