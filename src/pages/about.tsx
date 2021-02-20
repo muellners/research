@@ -60,20 +60,19 @@ const About: React.FC = () => (
                   About Research by Muellners <br /> GitHub: <a href="https://github.com/muellners/research"></a>
                 </h5>
                 <p>
-                As an organization, we maintain a portfolio of research projects driven by
-                fundamental research, new product innovation, product contribution and infrastructure goals,
-                 while providing individuals and teams the freedom to emphasize specific types of work.
-                 We strive to create an environment conducive to many different types of research across
-                 many different time scales and levels of risk.
+                As an organization, we maintain a portfolio of research projects driven by our zeal for
+                fundamental research, new product innovations, open contribution and sustainable goals.
+                 </p><p>
+                 We strive to create an environment helpful to many different types of projects across
+                 many different time scales, sectors and industries.
                 </p>
                 <p>
-                Our goal is to create a research environment rich in opportunities for product impact, to build a
-                product environment that actively benefits from research, and to provide our staff the freedom to
-                work on important research problems that are not tied to immediate product needs.
+                Our goal is to create a research environment, rich in opportunities & product impact, to build a
+                product environment that actively benefits from this research, and to provide our team the freedom to
+                  work and share their ideas on problems of humanity.</p><p>
                 Some of the most exciting research enables new products, or even new businesses,
-                that we cannot imagine today. Given the diversity of
-                research projects that we pursue, we have found it useful to define four types of work to
-                 help crystalize the goals of projects and allow us to measure progress.
+                that we cannot imagine today. Given the diversity of our endevours
+                that we pursue, we have found it useful to publish our work on this blog.
                 </p>
               </div>
             </PostFullContent>
