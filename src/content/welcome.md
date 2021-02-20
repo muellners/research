@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Welcome to Research@Muellners'
+title: 'Welcome to Research by Muellners'
 author: [Saransh]
 tags: ['Getting Started']
 image: img/welcome-to-ghost.jpg
 date: '2020-05-21T23:46:37.121Z'
 draft: false
-excerpt: Welcome, it's great to have you here. We know that first impressions are important, so we've populated your new research site with some initial getting started posts that will help you get familiar with everything in no time.
+excerpt: Welcome, it's great to have you here. This is a Getting Started guide for you to start sharing your ideas in Muellners ecosystem and on the Internet.
 ---
 
 **A few things you should know upfront**:
