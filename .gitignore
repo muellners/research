@@ -114,3 +114,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 .vscode
+
+# =========================
+# IDE files
+# =========================
+# IntelliJ Files
+.idea
