@@ -170,4 +170,13 @@ Logs are important and occasionally, you may need to check the logs of your depl
 You might come across this error on the UI when attempting to log in. The most common reasons for this error are:
 * The backend is not running.
 * You specified the wrong base API url in your browser
- 
+* Your internet connection is unstable.
+
+2. You may notice that after deployment, each date in a loan schedule jumps one day backwards or generally, does not conform to the dates defined by the loan product.
+
+![](img/e2e-fineract-deployment/img12.png)
+
+In the image above, the first repayment date was supposed to be on 14 September and the second on 29 September and so on.
+
+These shifts in loan schedule dates occur due to a timezone offset and can be resolved by setting up your tenant timezone configuration based on the hosted environment of your deployment.
+* You can do that by changing the tenant timezone in fineract_tenants.tenants table from Asia/Kolkata (default) to UTC.
