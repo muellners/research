@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ideas and thoughts that shape us , from fire to Internet
-image: img/testimg-cover.jpg
+image: img/new-space.jpg
 author: [Saransh]
 date: 2021-04-17T07:03:47.149Z
 tags:
