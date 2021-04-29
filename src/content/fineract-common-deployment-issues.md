@@ -16,7 +16,7 @@ With this blog, I have tried my best to confront them and highlight what are the
 
 We are using following repositories as reference forks of Apache Fineract 1.x:
 
-###A. Fineract 1.x / Server/ Backend
+###1. Fineract 1.x / Server/ Backend
 **Github Link:**
 
 https://github.com/muellners/fineract
@@ -25,7 +25,7 @@ https://github.com/muellners/fineract
 1. Docker
 2. Kubernetes
 
-###B. Run integration test
+###2. Run integration test
 **Github Link:**
 
 https://github.com/muellners/fineract/blob/develop/.travis.yml
@@ -36,14 +36,14 @@ Usual steps provided are:
 * Create a test build
 * Generate a fresh build and check compile
 
-###C. Once the integration tests are complete
+###3. Once the integration tests are complete
 Deploy services
 
-###D. Fineract Client side (Mifos X Client) community app
+###4. Fineract Client side (Mifos X Client) community app
 **Source Code (develop branch):**
 * https://github.com/muellners/community-app
 
-###E. Similar process for jenkins follows
+###5. Similar process for jenkins follows
 This app is written in angular JS, need to build and deploy the solution in static server through Apache server or any server that can process JS can be used.
 
 **Deployment Types Available:**
@@ -63,7 +63,7 @@ ____________________________________________________________________
 * https://guides.github.com/introduction/flow/
 
 
-##A Few Deployment Concerns & important notes
+##Few Deployment Concerns & important notes
 Let’s look at few deployment related issues now:
 ###A. Timezone Tenant Configuration:
 Each date in a loan schedule, loan product date or charges payment date posted may jump one date back or more if the Time Zone of the Tenant is not properly set up.
@@ -345,7 +345,7 @@ If you come across this, check if both the community app and Fineract 1.x are ma
 
 You would most likely see this when trying to log in from the client or when making certain requests.
 
-**Possible Solution Path:**
+**Solution Path:**
 
 Both the community app and Fineract 1.x must be configured to make use of the same authentication mechanism.
 
