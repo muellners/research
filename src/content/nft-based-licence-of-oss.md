@@ -23,51 +23,40 @@ NFTs are an interesting buzzword these days. The first time I interacted with th
 
 ***A non-fungible token (NFT) is a unit of data on a digital ledger called blockchain, where each NFT represents some unique entity that can’t be interchanged.***
 
-NFT can also be a tweet, audio, video anything that represents creative work. I have some of these collectibles (Kudos), you can check them out gitcoin.co/devilla.
+NFT can also be a tweet, audio, video anything that represents creative work. I have some of these collectibles (Kudos), you can check them on my [Gitcoin profile](gitcoin.co/devilla).
 
-
-
-
-
-
-
-
-
-
-
+![](./img/gitcoin-profile.png)
 
 Celebrities from Eminem to NFL’s Rob Gronkowski are in on this NFT adrenaline rush.
 
-You can also trade the NFTs on a marketplace over Ethereum such as OpenSea: Buy Crypto Collectibles, CryptoKitties, Decentraland, and more on Ethereum. Here, you can use an Ethereum based crypto wallet (Like Metamask) to sign in and trade collectibles.
+You can also trade the NFTs on a marketplace over Ethereum such as [OpenSea: Buy Crypto Collectibles, CryptoKitties, Decentraland, and more on Ethereum](https://opensea.io/). Here, you can use an Ethereum based crypto wallet (Like Metamask) to sign in and trade collectibles.
 
 
 My team at Muellners is also working with a combination of both the above platforms, using the Avalanche platform. 
-On Avalanche Exchange Chain (X-Chain), you can actually create your own collectibles, mint as many as you want, and transfer them across the platform using our Finscale Wallet.
+On Avalanche Exchange Chain (X-Chain), you can actually create your own collectibles, mint as many as you want, and transfer them across the platform using our [Finscale Wallet](wallet.finscale.net).
+
+![](./img/finscale-wallet.png)
+
+## [Finscale Wallet on Avalanche](wallet.finscale.net)
 
 
+Now, let’s talk about what is already happening on Open Source. Open Source software (OSS) are mostly funded through ***grants, donations, and quadratic contributions.***
 
-
-
-## Finscale Wallet on Avalanche
-
-
-Now, let’s talk about what is already happening on Open Source. Open Source software (OSS) are mostly funded through grants, donations, and quadratic contributions.
-
-Theoretically, an open source IP does belong to its creator but practically, the Open Source’s intangible IP doesn’t really belong to anyone as the project roadmap improves over its life lifecycle. Basically, it's not a “copyright” but a “copyleft”. 
+Theoretically, an open source IP does belong to its creator but practically, the Open Source’s intangible IP doesn’t really belong to anyone as the project roadmap improves over its life lifecycle. Basically, it's ***not a “copyright” but a “copyleft”.*** 
 Different OSS licenses provide mechanisms for using, consuming, re-engineering the open source IP. 
 The primary source code is itself usually held or maintained by an entity. E.g like Apache FSF, Mojaloop Foundation, Muellners Foundation, Mifos Foundation, Ethereum Foundation.
  
 Sometimes tech companies have also released parts of their technology into open source. E.g Google.
 
-I think NFTs in the context of Open Source should work fine, maybe outperform the expected use cases. NFTs can be said to be internet native Intellectual Property.
-Intellectual property valuation is considered as one of the most critical areas in finance; it plays a key role in many areas of finance such as buy/sell, solvency, merger, and acquisition.
+***I think NFTs in the context of Open Source should work fine, maybe outperform the expected use cases. NFTs can be said to be internet native Intellectual Property.
+Intellectual property valuation is considered as one of the most critical areas in finance; it plays a key role in many areas of finance such as buy/sell, solvency, merger, and acquisition.***
 Yes, in its entirety, if someone wants to gain ownership of an Open Source Software and quantify its value, this can be facilitated using NFTs.
 IP valuation of OSS is quite important and can be understood as the ‘necessity’ today. 
 In 2021, we understand that a good software created in Open Source, dies out or lags due to a clear lack of IP valuation. This lack of valuation hinders the OSS participation by For Profit entities.
 
 We are indicating that blockchain and consequently DeFi is finding its feet at a time of great urgency when the global economy is going through dynamic reforms. 
 
-IP valuation is the process of determining the value of intellectual property assets. Prevailing methods of registering an IP are patents, trademarks, copyrights and trade secrets. If you plan to buy, sell or license IP, you need to carry out an IP valuation to understand the value of the IP assets in question. There are a number of reasons you might need to value IP. You might be selling intellectual property rights in a licensing deal. 
+***IP valuation*** is the process of determining the value of intellectual property assets. Prevailing methods of registering an IP are patents, trademarks, copyrights and trade secrets. If you plan to buy, sell or license IP, you need to carry out an IP valuation to understand the value of the IP assets in question. There are a number of reasons you might need to value IP. You might be selling intellectual property rights in a licensing deal. 
 
 Whatever your reasons for quantifying the value of an Internet native technology, there are many IP valuation methods which can be used to value IP and associated rights. 
 These fall into three main categories: 
@@ -94,6 +83,8 @@ Issuing NFT against the total population of the world can determine the market v
 Let’s understand some limitations here. The global population is huge and maybe someday everyone will have the knowledge of NFTs and curious enough to mint one themselves but this is limited by two things:
 i. At the moment, there is a finite population that understands the concept of holding a NFT and having an understanding of its underlying value. 
 ii. Secondly, there’s this demand-supply tradeoff i.e. Demand is inversely proportional to supply.
+
+![](./img/demand-supply.png)
 
 So, if the world population increases and everyone wants to own NFTs against an open source technology, then surely the demand increases as stated above. (refer i. And ii.) Theoretically, even if everyone starts making NFTs, their value is very likely to reduce. Unlike altcoins, NFT isn’t a clone of some entity (say BTC). It’s more like a collectible in terms of tech with some unique properties that can’t be replicated.
 
