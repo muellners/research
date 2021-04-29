@@ -16,18 +16,19 @@ tags:
 On Avalanche Blockchain
 
 ### Overview
-To exchange value over digital platforms there has been a demand of using cryptographic based currencies,
+To exchange value over digital platforms there has been a demand of using cryptographic based currencies.
 
 **Price Stability Mechanisms**
+
 Target Price: The Target Price is initially denominated in Euro and starts at 1, translating to a 1:1 Euro soft peg. The FINS Target Price has two primary functions on the Finscale Platform: 
 1) It is used to calculate the collateral-to-debt ratio of a CDP, and 
 2) It is used to determine the value of collateral assets Finscale holders receive in the case of a global settlement.
 
 Target Rate Feedback Mechanism: In the event of severe market instability, the Target Rate Feedback Mechanism (TRFM) can be engaged. Engaging the TRFM breaks the fixed peg of Finscale, but maintains the same denomination.
 
-Oracles: Blockchain accounts (either contracts or users) selected to provide pricefeeds into various components of Finscale Platform.
+**Oracles:** Blockchain accounts (either contracts or users) selected to provide pricefeeds into various components of Finscale Platform.
 
-Price feeds: The reference price (AVAX/EURO) for the Avalanche system is provided via an oracle (Chainlink), which collates price data from a number of external price feeds.
+**Price feeds:** The reference price (AVAX/EURO) for the Avalanche system is provided via an oracle (Chainlink), which collates price data from a number of external price feeds.
 
 ### FINS Token Governance
 A community of FINS token holders governs the Finscale Protocol, the smart contracts that power FINS. In addition to payment of the Stability Fee on active CDPs, the FINS token plays an important role in the governance of the Finscale Platform. Governance is done at the system level through the election of an Active Proposal by FINS voters. The Active Proposal is the smart contract that has been empowered by FINS voting to gain root access to modify the internal governance variables of the Finscale Platform.
@@ -46,7 +47,7 @@ In our solution, fiat pegged cryptocurrency is called “FINS”. All FINS will 
 
 Finscale employs a simple but effective approach for conducting **Proof of Reserves** which significantly reduces our counterparty risk as to the custodian of the reserve assets.
 
-## Proof of resources: 
+## Proof of Reserves: 
 FINS Proof of Reserves configuration is novel because it simplifies the process of proving that the total number of FINS in circulation (liabilities) are always fully backed by an equal amount of fiat currency held​.
 
 Each FINS issued will be backed by the equivalent amount of currency unit (one FINS equals
