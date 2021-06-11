@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Ideas and thoughts that shape us , from fire to Internet
+title: India, thousand burning suns that cannot emit light anymore
 image: img/lockdown-survey-1.jpeg
-author: [Saransh, Johnson M. Chetty]
+author: [Saransh Johnson M. Chetty]
 date: 2021-06-11T07:03:47.149Z
 tags:
   - ideas
