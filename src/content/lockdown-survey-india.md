@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ideas and thoughts that shape us , from fire to Internet
-image: img/new-space.jpg
+image: img/lockdown-survey-1.jpeg
 author: [Saransh, Johnson M. Chetty]
 date: 2021-06-11T07:03:47.149Z
 tags:
@@ -54,7 +54,7 @@ Outer parts and rural areas are laxative; quite clear density for enforcement is
 Our story is the groundbreaking covering various real stories and situtaions. This is going to be a three part series of paper covering , Mental ,Economic and Future related open ended dicussion for policy makers.
 
 ``` 
-This is a three part series document, which will be published in 
+This is a three part series document. 
 
 ```
 
