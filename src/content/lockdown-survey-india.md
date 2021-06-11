@@ -20,40 +20,36 @@ Muellners foundation set up a team to observe the countrywide policies implement
 
 The purpose of this report is to set recommendations for ongoing efforts in resource management and donor visibility in place. This crisis will be here for several years. The long-lasting impact of this is quite visible in economic and policymaking with governance.
 
-On May 2, as part of Muellners Foundation, we set out on the road to assess the implementation of the lockdown measures and understand ground truth across various communities and agencies dealing with the bulk of the cases coming in. 
+On May 2, as part of Muellners Foundation, we set out on the road to assess the implementation of the lockdown measures and understand the on-ground truth across various communities and agencies, dealing with the bulk of the cases coming in. 
 
-Thus far, There was a mass shutdown of services, and many labourers and communities bore no work. Specific well-to-do neighbourhoods have set up food kitchens to help alleviate hunger across states visited. 
+Thus far, there was a mass shutdown of services, and many daily wage labourers and similar income communities bore no work. Yes no livelihood! Specific well-to-do neighbourhoods have set up food kitchens to help alleviate hunger across states visited. 
 
-Many NGO's and organizations have reached out a helping hand to those in need. Restaurants serve people food but only a limited amount. There is government support in the form of monthly rations dispersed via local ration shops.
+Many NGO's and organizations have reached out a helping hand to those in need. Restaurants serve people food but only a limited amount. There is some government support in the form of monthly rations disbursed and allocated via local ration shops.
 
 People en masse have been moving back to their hometowns due to a lack of available work and sustainable income.  Food remains one of the more significant issues to tackle nationally. 
 
 In Chennai, large swathes of migrant labourers were seen in clusters on the outskirts and inside the city.
+Here, we saw Meals for Madras, a digital food aid program at its nascent stages, while delivering social good.
 
-MealsForMadras, a food delivery initiative, in the nascent stages of setting its operations. The more significant problems they were facing at the time of inter
+The size of migrant labourers in Chennai seems to outweigh the magnitude of the current efforts to address the food and daily needs shortage.  Some populations of migrants have faced the impending depletion of their food reserves, basically completely running out. 
 
-The size of migrant labourers in Chennai seems to outweigh the magnitude of the current efforts to address the food and daily needs shortage.  Some populations of migrants have faced the impending depletion of their food reserves running out. 
+In places we visited, lockdown measures have enforced to a larger degree although people are showing some signs of torpid attitude in rural areas. 
 
-In places we visited, lockdown measures have enforced to a large degree although people are showing signs of laxtive attitude in rural areas. 
+Marginalized communities and people with no homes seem to have some assistance from local communities. India is a land of spirituality and a land of goodwill.
 
-Marginalized communities and people with no homes seem to have some assistance from local communities.
+Across the more extensive network of villages between the Tier I, II-III cities, the shortage of economic avenues was already beginning to show up. Quite a few village shops were semi-shuttered. Restaurants were hard hit. Even as the communities came together to support each other, Fear, widespread dread and anxiety were prevalent almost everywhere, we visited. 
 
-Across the more extensive network of villages between the Tier I, II-III cities, the shortage of economic avenues was already beginning to show. Quite a few village shops were semi-shuttered. Restaurants were hard hit. Fear and widespread dread were prevalent almost everywhere. 
-
-
-Police were subjectively enforcing rules. The enforcement of regulations and the government directives themselves were unclear to the departments, and therefore, there were improper implementations. 
+Urban and rural Police alike were found to subjectively enforce rules. The enforcement of regulations and the government directives themselves were quite unclear to the departments, and therefore, there were at times state of confused and improper implementations. 
  
-The Police implemented many checkpoints throughout the significant entry and exit points at state borders, but these points did not have adequate screening measures. There were no containment areas or detainment zones.
+The Police force implemented many checkpoints throughout the significant entry and exit points at state borders, but these points did not have adequate screening measures. There were no containment areas or detainment zones alongside. In some places, the irregularities in enforcement were observed as the state police had their own set of directives bypassing over the federal government's directives.
 
-In some places, the irregular enforcement by the state police over a government directive.
-
-There was some detainment of migrant populations in terms of conducting RAT( Rapid Assessment Tests); however, the tests were done with pricing that was pushed onto people. And subsequently, what would have been government enabled supply was redirected onto people who were being detained. 
+There was some detainment and obstacles faced by poor amigrant populations in terms of conducting RAT( Rapid Assessment Tests); however, the tests were done with pricing that was pushed onto people. And subsequently, what would have been government enabled supply was redirected onto people who were being detained. 
 
 Lockdown has a widespread traumatic impact. Too much movement can lead to viral infections across different communities, the ones that are protected. Other states have differing policies leading to confusion and chaos. 
 
-Outer parts and rural areas are laxative; quite clear density for enforcement is good, but how do you cover large rural areas where infrastructure is leaking. A single person is taking test's for another 100 plus.
+Outer parts and rural areas are found to be more relaxed in following covid rules while gripped with less and limited awareness; quite clear density for enforcement is good, but how do you cover large rural areas where infrastructure is leaking. A single person is taking test's for another 100 plus.
 
-Our story is the groundbreaking covering various real stories and situtaions. This is going to be a three part series of paper covering , Mental ,Economic and Future related open ended dicussion for policy makers.
+Our story is the groundbreaking coverage of various real stories and situations. This is going to be a three part series of a research paper covering mental, economic and Future related open ended discussion for policy makers.
 
 ``` 
 This is a three part series document. 
