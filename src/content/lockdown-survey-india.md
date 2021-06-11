@@ -14,8 +14,9 @@ tags:
 
 ### Abstract
 
-COVID-19 surged with exponential numbers hitting hundreds of thousands in May of 2021 in India, yet we estimate that the actual data may not be reported accurately. As predicted by global policymakers, this 2nd wave took a disastrous shape and what needs to be seen is how we face an incoming third wave. 
-Muellners foundation set up a team to observe the countrywide policies implemented by the government. Our report observes Tamil Nadu, Andhra Pradesh, Telangana, Orissa, Jharkhand, Bihar, Uttar Pradesh, Delhi, Punjab and Himachal Pradesh. Our report follows local regulation and civic bodies working on the healthcare front. We support our research and findings with experimental methods, including conducting surveys by directly asking questions and recording information and corroborating with local media and correlating with data. Although we do not claim and assert the study in its entirety is accurate, we have provided factual information. 
+COVID-19 surged exponentially with numbers hitting hundreds of thousands in May of 2021 in India, yet we assess that the actual data may not be reported accurately. As predicted by global policymakers, this 2nd wave took a disastrous shape and what needs to be seen is how we face an incoming third wave. 
+
+Muellners foundation set up a team to observe the countrywide policies implemented by the government. Our report observes Tamil Nadu, Andhra Pradesh, Telangana, Orissa, Jharkhand, Bihar, Uttar Pradesh, Delhi, Punjab and Himachal Pradesh. Our report follows local regulations and civic bodies working on the healthcare front. We support our research and findings with experimental methods, including conducting surveys by directly asking questions, recording information and corroborating with local media, correlating with data. Although, we do not claim and assert that the study in its entirety can be used for specific and directed policy making, we have provided our best effort here to present an unbiased and factual information. 
 
 The purpose of this report is to set recommendations for ongoing efforts in resource management and donor visibility in place. This crisis will be here for several years. The long-lasting impact of this is quite visible in economic and policymaking with governance.
 
