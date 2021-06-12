@@ -12,7 +12,7 @@ tags:
   - lockdown
 ---
 
-### Abstract
+### Introduction
 
 COVID-19 surged exponentially with numbers hitting hundreds of thousands in May of 2021 in India, yet we assess that the actual data may not be reported accurately. As predicted by global policymakers, this 2nd wave took a disastrous shape and what needs to be seen is how we face an incoming third wave. 
 
@@ -33,7 +33,7 @@ Here, we saw Meals for Madras, a digital food aid program at its nascent stages,
 
 The size of migrant labourers in Chennai seems to outweigh the magnitude of the current efforts to address the food and daily needs shortage.  Some populations of migrants have faced the impending depletion of their food reserves, basically completely running out. 
 
-In places we visited, lockdown measures have enforced to a larger degree although people are showing some signs of torpid attitude in rural areas. 
+In places we visited, lockdown measures have enforced to a larger degree although people are showing some signs of "torpid" attitude in rural areas. 
 
 Marginalized communities and people with no homes seem to have some assistance from local communities. India is a land of spirituality and a land of goodwill.
 
@@ -41,15 +41,15 @@ Across the more extensive network of villages between the Tier I, II-III cities,
 
 Urban and rural Police alike were found to subjectively enforce rules. The enforcement of regulations and the government directives themselves were quite unclear to the departments, and therefore, there were at times state of confused and improper implementations. 
  
-The Police force implemented many checkpoints throughout the significant entry and exit points at state borders, but these points did not have adequate screening measures. There were no containment areas or detainment zones alongside. In some places, the irregularities in enforcement were observed as the state police had their own set of directives bypassing over the federal government's directives.
+The Police force implemented many checkpoints throughout the significant entry and exit points at state borders, but these points did not have adequate screening measures. There were no containment areas or isolation zones alongside. In some places, the irregularities in enforcement were observed as the state police had their own set of directives bypassing over the federal government's directives.
 
-There was some detainment and obstacles faced by poor amigrant populations in terms of conducting RAT( Rapid Assessment Tests); however, the tests were done with pricing that was pushed onto people. And subsequently, what would have been government enabled supply was redirected onto people who were being detained. 
+There are obstacles being faced by poor migrant populations in terms of movement. For example - conducting RAT( Rapid Assessment Tests); the tests were found to be done at a pricing that was pushed onto people. And subsequently, what could have been a government enabled intervention is being redirected onto citizens. 
 
-Lockdown has a widespread traumatic impact. Too much movement can lead to viral infections across different communities, the ones that are protected. Other states have differing policies leading to confusion and chaos. 
+Lockdown has a widespread traumatic impact. Too much movement can lead to viral infections across different communities, even the ones that are protected because of their accessibility to more resources. States in India were found to have differing policies leading to confusion and chaos. 
 
 Outer parts and rural areas are found to be more relaxed in following covid rules while gripped with less and limited awareness; quite clear density for enforcement is good, but how do you cover large rural areas where infrastructure is leaking. A single person is taking test's for another 100 plus.
 
-Our story is the groundbreaking coverage of various real stories and situations. This is going to be a three part series of a research paper covering mental, economic and Future related open ended discussion for policy makers.
+Our story is the groundbreaking coverage of various real stories and situations. This is going to be a three part series of a research paper covering mental, economic and India's future related open ended discussion for policy makers.
 
 ``` 
 This is a three part series document. 
