@@ -78,4 +78,12 @@
   website: https://github.com
   location: India
   profileImage: img/bridge.jpg
+- id: Cici
+  avatar: avatars/ghost.png
+  bio: Advisor at Muellners
+  twitter: none
+  facebook: ghost
+  website: https://github.com
+  location: USA
+  profileImage: img/bridge.jpg
 
