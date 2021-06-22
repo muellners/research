@@ -119,6 +119,6 @@ NFTs are not transferable, which means when the person dies, the NFT ownership d
 
 **More questions that remain unanswered in this article and we shall endeavour to cover them in the upcoming releases:**
 
-Is there a framework of issuance of NFTs that take the form of digital identity of the token holders? 
-Is it password-less access to the Finscale platform’s open-source reengineering capabilities by the holder of the token?
-What is the global governance model of the Finscale project?
+- Is there a framework of issuance of NFTs that take the form of digital identity of the token holders? 
+- Is it password-less access to the Finscale platform’s open-source reengineering capabilities by the holder of the token?
+- What is the global governance model of the Finscale project?
