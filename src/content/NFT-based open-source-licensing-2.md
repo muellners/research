@@ -74,28 +74,28 @@ The production of open source technology usually relies on volunteer contributio
 
 **Network Effect within open source:** 
 
-In economics, the phenomenon when the value of a good or service is dependent on the number of people using it is called the network effect. A positive network effect or network externality appears when the perceived value for any one user of a product, good or service increases as the number of other users grows. A classic example for a positive network effect is the telecommunication industry and its products like the telephone or the fax machine. The value of every phone or fax machine increases with every new one joining the network. It is worth noting that on the one hand, without other users in the network, the ownership of a phone or fax machine would be worthless. On the other hand, a new user will most likely join the network with his own benefit in mind, but will create value for the community as a whole nevertheless.
+In economics, the phenomenon whereas the value of a good or a service is dependent on the number of people using it, is called the network effect. A positive network effect or network externality appears when the perceived value for any one user of a product, good or service increases as the number of other users grow. A classic example for a positive network effect is the telecommunication industry and its products like the telephone or the fax machine. The value of every phone or fax machine increases with every new one joining the network. It is worth noting that on the one hand, without other users in the network, the ownership of a phone or fax machine would be worthless. On the other hand, new users will most likely join the network with their own benefit in mind, but will create value for the community as a whole nevertheless.
 
-Whereas the term “network effect” is usually associated with positive externalities and an increase in value, there can also be a negative network effect also known as “network congestion”. In this case the value of a product drops as new users join the network, for example when the data volume needed for the product to function surpasses the transmission capabilities of the network.
+Whereas the term “network effect” is usually associated with positive externalities and an increase in value, there can also be a negative network effect also known as “network congestion”. In this case, the value of a product drops as new users join the network. One example is when the data volume (needed for the product to function) surpasseses the transmission capabilities of the network.
 
 **Different types of network effects**
 
-Although there may be many ways to segment different network effects, they most commonly fall into one of the following four categories:
+Although, there may be many ways to segment different network effects, they most commonly fall into one of the following four categories:
 
-- Direct network effects
-In this first and simplest category the increase in usage leads to direct increase in value. Telephone and fax service is an example of a direct network effect.
+- Direct network effects:
+In this first and simplest category, the increase in usage leads to direct increase in value. Telephone and fax service is an example of a direct network effect.
 
-- Indirect network effects
-Increase in usage triggers the production of increasingly valuable complementary products, which results in an increase of value in the original product. For example, the increased quality and availability of complementary applications software for the Windows platform increases the value of the Microsoft operating system software.
+- Indirect network effects:
+Increase in usage triggers the production of increasingly valuable complementary products. This results in an increase of value in the original product. For example, the increased quality and availability of complementary applications for the Windows platform increases the value of the Microsoft operating system software.
 
-- Two-sided network effects
-Here, the increase in usage by one set of users increases the value of a complimentary product for another distinct set of users and vice versa. In networks where two interest groups are brought together, like in reader/writer networks, marketplaces and matching platforms this kind of network effect can occur.
+- Two-sided network effects:
+Here, the increase in usage by one set of users increases the value of a complimentary product for another distinct set of users and vice versa. In networks where two interest groups are brought together, like in reader/writer networks, marketplaces and matching platforms, this kind of network effect can occur.
 
-- Local network effects
+- Local network effects:
 In this case, an underlying sub-group of users directly connected to a user defines the value of the network. For example, the user of a social network is not directly influenced by the general growth of the user base but rather by the decisions and participation of a smaller, local subset of users or the group of users he or she is directly connected to.
 
 Network effects in open source software development:
-Making use of online networks like github and other communities and resources like the Open Source Initiative (Open Source Institute (OSI)) developers in open source software projects can experience network effects of all four kinds: Once the code is opened up and can be further developed by anyone (or anyone in the network), an increase of qualified work on the code can lead to a direct increase of value, and also unexpected new complimentary software products developed by members of the network can lead to an indirect increase of value of the original software.
+Making use of online networks like github, other communities and resources like the Open Source Initiative (Open Source Institute (OSI)), developers in open source software projects can experience network effects of all four kinds: Once the code is opened up and can be further developed by anyone (or anyone in the network), an increase of qualified work on the code can lead to a direct increase of value. The addition of new complimentary software products, developed by members of the network can lead to an indirect increase of value of the original software.
 
 By utilizing the user groups who solely and expertly test-use (or Beta Test) and feedback on the software in development, a network effect can also be two-sided as it creates value for both users and developers.
 
