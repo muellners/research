@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NFT based open source licensing, a new ecosystem for open source projects.
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/NFTblog2.png
 author: [Devendra]
 date: 2021-06-22T07:41:47.149Z
 tags:
