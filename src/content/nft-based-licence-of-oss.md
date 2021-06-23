@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NFT based licenses and NFTs as a medium of Intellectual property valuation of open source technologies.
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/NFT1.png
 author: [Devendra]
 date: 2021-02-15T07:41:47.149Z
 tags:
