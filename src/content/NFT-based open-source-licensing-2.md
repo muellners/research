@@ -72,12 +72,36 @@ Coming back to Finscale, the NFT model against the open-source licenses of Finsc
 This form of open source and NFTs tagged software licenses allow end-users to study, modify, and distribute publicly accessible source code by anyone, to anyone and for any purpose. 
 The production of open source technology usually relies on volunteer contributions and leads to the creation of communities, i.e groups of people interested in or working on specific projects. Communities form social networks where innovations are created and distributed. It is also our view that most disruptive technologies have a necessitated component immersed in open source engineering. 
 
-**Network Effect within open source:** In a traditional understanding, network effects usually arise when a consumer’s utility increases with the number of other consumers acquiring more values on the same network. 
-With direct network effects, the number of other consumers directly disrupt the consumer choices; classic examples include telephone networks or connected computing hardware. 
-If subject to indirect network effects, a consumer does not gain directly because of the number of other consumers, but because of, for example, increasing market share, there are more incentives to improve the quality of the product itself or provide additional value added services. Indirect network effects may also lead to a theoretical standardization. 
+**Network Effect within open source:** 
+
+In economics, the phenomenon when the value of a good or service is dependent on the number of people using it is called the network effect. A positive network effect or network externality appears when the perceived value for any one user of a product, good or service increases as the number of other users grows. A classic example for a positive network effect is the telecommunication industry and its products like the telephone or the fax machine. The value of every phone or fax machine increases with every new one joining the network. It is worth noting that on the one hand, without other users in the network, the ownership of a phone or fax machine would be worthless. On the other hand, a new user will most likely join the network with his own benefit in mind, but will create value for the community as a whole nevertheless.
+
+Whereas the term “network effect” is usually associated with positive externalities and an increase in value, there can also be a negative network effect also known as “network congestion”. In this case the value of a product drops as new users join the network, for example when the data volume needed for the product to function surpasses the transmission capabilities of the network.
+
+**Different types of network effects**
+Although there may be many ways to segment different network effects, they most commonly fall into one of the following four categories:
+
+- Direct network effects
+In this first and simplest category the increase in usage leads to direct increase in value. Telephone and fax service is an example of a direct network effect.
+
+- Indirect network effects
+Increase in usage triggers the production of increasingly valuable complementary products, which results in an increase of value in the original product. For example, the increased quality and availability of complementary applications software for the Windows platform increases the value of the Microsoft operating system software.
+
+- Two-sided network effects
+Here, the increase in usage by one set of users increases the value of a complimentary product for another distinct set of users and vice versa. In networks where two interest groups are brought together, like in reader/writer networks, marketplaces and matching platforms this kind of network effect can occur.
+
+- Local network effects
+In this case, an underlying sub-group of users directly connected to a user defines the value of the network. For example, the user of a social network is not directly influenced by the general growth of the user base but rather by the decisions and participation of a smaller, local subset of users or the group of users he or she is directly connected to.
+
+Network effects in open source software development
+Making use of online networks like github and other communities and resources like the Open Source Initiative (Open Source Institute (OSI)) developers in open source software projects can experience network effects of all four kinds: Once the code is opened up and can be further developed by anyone (or anyone in the network), an increase of qualified work on the code can lead to a direct increase of value, and also unexpected new complimentary software products developed by members of the network can lead to an indirect increase of value of the original software.
+
+By utilizing the user groups who solely and expertly test-use (or Beta Test) and feedback on the software in development, a network effect can also be two-sided as it creates value for both users and developers.
+
+Most network effects relevant to open source software projects will also be local because the increase in value of a code in development usually depends on the participation of a highly specialized subset of users of a given network.
 
 Consumer expectations regarding the size of the networks do play a crucial role in emerging community networks in the realm of open source initiatives too. 
-However, the traditional approach barely addresses the origin of these network effects, focusing only on the number of users, regardless of their actual connections. That is why, we introduce a redefinition of the network effect separating a potential component (related to the number of users) from the local component (related to the type or quality of connections and the topology of the network). We understand that there is a strong presence of network effects within Open Source projects, initiatives and communities.
+However, the traditional approach barely addresses the origin of these network effects, focusing only on the number of users, regardless of their actual connection i.e. why, we introduce a redefinition of the network effect separating a potential component (related to the number of users) from the local component (related to the type or quality of connections and the topology of the network). We understand that there is a strong presence of network effects within Open Source projects, initiatives and communities.
 
 Coming back to Finscale, the above NFT License / License token for our model of open-source accessibility rights to Finscale can be used. Here we can create our own M-FINS tokens or Collectibles NFT using [Finscale Wallet](https://wallet.finscale.net/) to issue licenses against open-source contributions and bounties.
 
@@ -85,7 +109,7 @@ In a world where individual value or work is increasingly  identified, recorded 
 
 **About an open bounty platform:** While planning Muellners Foundation’s bounties program for open source projects, we wanted to make sure that the developers find work and get paid to create value. 
 
-When it comes to bounties, whenever a contributor finds work, they come across a unique problem statement. How to assign a value to the solution of that unique problem? As the contributor owns the solution and one can typically reproduce the solution, the contributor can transfer the ownership to the another party on the same network and get access to a real value. Ofcourse, the solution(lets call it ‚ ‘Work’) is verified through a community PR mechanism.
+When it comes to bounties, whenever a contributor finds work, they come across a unique problem statement. How to assign a value to the solution of that unique problem? As the contributor owns the solution and one can typically reproduce the solution, the contributor can transfer the ownership to the another party on the same network and get access to a real value. Ofcourse, the solution (lets call it ‚ ‘Work’) is verified through a community PR mechanism.
 
 To make this easy to understand, say, you as a developer encountered a problem statement "fix a code for this open-source project", now you set upon a journey that's unique and you "fixed the problem as a unique code". You may have re-used the existing piece of code but your output and methods are different. All other community members should be able to put this unique piece of code out there so that other consumers buy and keep it as a collectible. This shall produce more valuables in the future such as the same code that could be used for producing the work in different contexts.
 
