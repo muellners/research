@@ -79,6 +79,7 @@ In economics, the phenomenon when the value of a good or service is dependent on
 Whereas the term “network effect” is usually associated with positive externalities and an increase in value, there can also be a negative network effect also known as “network congestion”. In this case the value of a product drops as new users join the network, for example when the data volume needed for the product to function surpasses the transmission capabilities of the network.
 
 **Different types of network effects**
+
 Although there may be many ways to segment different network effects, they most commonly fall into one of the following four categories:
 
 - Direct network effects
@@ -93,7 +94,7 @@ Here, the increase in usage by one set of users increases the value of a complim
 - Local network effects
 In this case, an underlying sub-group of users directly connected to a user defines the value of the network. For example, the user of a social network is not directly influenced by the general growth of the user base but rather by the decisions and participation of a smaller, local subset of users or the group of users he or she is directly connected to.
 
-Network effects in open source software development
+Network effects in open source software development:
 Making use of online networks like github and other communities and resources like the Open Source Initiative (Open Source Institute (OSI)) developers in open source software projects can experience network effects of all four kinds: Once the code is opened up and can be further developed by anyone (or anyone in the network), an increase of qualified work on the code can lead to a direct increase of value, and also unexpected new complimentary software products developed by members of the network can lead to an indirect increase of value of the original software.
 
 By utilizing the user groups who solely and expertly test-use (or Beta Test) and feedback on the software in development, a network effect can also be two-sided as it creates value for both users and developers.
