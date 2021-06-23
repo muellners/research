@@ -33,9 +33,9 @@ Now, in terms of the platform licensing, we are looking at a new type of open so
 Ability to reengineer Finscale
 Ability to use and consume Finscale
 Ability to embody NFT value assigned against open-source platform accessibility rights:            The way I visualise this is that a project maintenance committee (PMC) thus maintains a distribution platform for each interaction/integration of the open sourced Finscale platform. Basically, 
-i. You can record multiple integrations on a blockchain of your choice.
-ii. You can provide incentivisation too e.g on each successful improvement (in the form of a merged PR). 
-iii. The incentives can also be sponsored by other NFT holders who have vested interests in the project.
+- i. You can record multiple integrations on a blockchain of your choice.
+- ii. You can provide incentivisation too e.g on each successful improvement (in the form of a merged PR). 
+- iii. The incentives can also be sponsored by other NFT holders who have vested interests in the project.
 
 Think Github. The role of github in advancing the blockchain use cases and open source technologies is truly breathtaking.
 
@@ -52,8 +52,8 @@ An **NFT License** can offer a more practical middle ground when it comes to mea
 
 We hope that a reformed version of NFT License provides a framework for developers/creators to establish sustainable businesses and offer them a secure path to monetization and IP valuation of their contributions.
 The NFT license, at its core, is a user agreement. Any NFT creator can literally copy and paste this license into their terms of service, and it will govern what users can and can’t do with their NFTs. Overall such an NFT license for open source should:
-i. Allow for digital portability.
-ii. Give such NFT owners the right to commercialize the IP for their digital assets.
+- i. Allow for digital portability.
+- ii. Give such NFT owners the right to commercialize the IP for their digital assets.
  
 Finally, the license stipulates that experiences that use NFTs must cryptographically verify that the person using the asset truly owns it. If anyone could use any NFT, we wouldn’t need a concept of ownership at all!
 
@@ -102,10 +102,10 @@ The more important question is whether ownership is traded so that others can mo
 Talking again about ownership, there is a piece of code that works on the OSS project and is owned by a developer, it's just that there hasn’t been a strong way, one could trade this earlier. This happened because there was no way of a standard value chain, like how someone would value a piece of code that has no use for a different project or to a user. 
 
 We can try to categorize them as: 
-	i. Subjective value of a code
-	ii. Code that can be used somewhere 
-	iii. Users unknowingly execute the code but do not derive any value from the chunk, since standalone code has no value.
-	iv. Combined code value (like multiple pieces of code coming together building a project/application.
+	- i. Subjective value of a code
+	- ii. Code that can be used somewhere 
+	- iii. Users unknowingly execute the code but do not derive any value from the chunk, since standalone code has no value.
+	- iv. Combined code value (like multiple pieces of code coming together building a project/application.
 
 Scarcity Alone Drives Demand!
 
