@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adding Net Disbursal Amount logic to different Loan Lifecycle Events
+title: Re-engineering Loan Amounts associated with loan lifecycle events and creating Net Disbursal Amount
 image: img/bridge.jpg
 author: [Audrey N.]
 date: 2021-06-28T09:02:35.149Z
@@ -9,6 +9,8 @@ tags:
 - loan amounts
 - net disbursal amount
 ---
+
+## `Adding Net Disbursal Amount logic to different Loan Lifecycle Events`
 
 _Net Disbursal Amount (NDA) represents the actual loan amount disbursed void of any fees or costs of the financial transactions. I worked on implementing this feature at certain event states of a loan’s lifecycle, for two loan categories - regular loans and refinanced loans._
 
