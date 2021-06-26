@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Re-engineering Loan Amounts associated with loan lifecycle events and creating Net Disbursal Amount (Part 1)
+title: Re-engineering Loan Amounts associated with loan lifecycle events and creating Net Disbursal Amount
 image: img/adding-nda-logic/nda.png
 author: [Audrey N.]
 date: 2021-06-28T09:02:35.149Z
