@@ -5,8 +5,12 @@ image: img/computer.jpg
 author: [Audrey N.]
 date: 2021-03-04T02:16:35.149Z
 tags:
-- fineract
+- Apache Fineract
 - deployment
+- AWS fineract
+- fineract installation
+- mifos deployment
+- mifos installation AWS
 - amazon lightsail
 ---
 
