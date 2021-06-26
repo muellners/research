@@ -1,15 +1,21 @@
 ---
 layout: post
-title: Implementing a loan scheduler change in Fineract 1.x. Guide by Kaze
-image: img/testimg-cover.jpg
+title: Implementing a loan scheduler change in Fineract 1.x. to support different type of repayment frequency
+image: img/implementing-loan-scheduler/fineractloanrescheduler.png
 author: [Nasser Y.]
 date: 2021-02-08T07:03:47.149Z
 tags:
-  - fineract
-  - improvements
+  - apache fineract
+  - fineract 1.x
+  - mifos x
+  - semi monthly loan fineract
+  - loan scheduler
+  - bimonthly loan fineract mifos
+  - semi monthly loans
+  - repayment frequency change fineract
 ---
 
-Fineract is a robust open-source platform for financial services. It covers a variety of banking solutions including loan products. This piece of guide focuses on a new Fineract improvement on its loan scheduler. This allows us to configure a **semi monthly Loan Product and run different semi monthly loan schedules.**
+Fineract is a robust open-source platform for financial services. It covers a variety of banking solutions including loan products. This piece of guide focuses on a new Fineract improvement on its loan scheduler. The focus here is to change the repayment frequency of loan schedule. This capability allows us to configure a **semi monthly Loan Product and run different semi monthly loan schedules.**
 
 But first what, is a semi monthly product. As the name suggests, a semi monthly product is a loan product that can be repaid twice each month for the duration of the loan term, until its maturity. This involves repayment divided into two equal halves for each month.
 
