@@ -349,4 +349,4 @@ You would most likely see this when trying to log in from the client or when mak
 
 Both the community app and Fineract 1.x must be configured to make use of the same authentication mechanism.
 
-I hope you enjoyed this guide. Feel free to write to us or join.
+I hope you enjoyed this guide. Feel free to write to us or join the discussion on Apache Fineract mailing list or our slack channel. 

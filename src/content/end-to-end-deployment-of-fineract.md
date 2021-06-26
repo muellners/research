@@ -180,3 +180,5 @@ In the image above, the first repayment date was supposed to be on 14 September 
 
 These shifts in loan schedule dates occur due to a timezone offset and can be resolved by setting up your tenant timezone configuration based on the hosted environment of your deployment.
 * You can do that by changing the tenant timezone in fineract_tenants.tenants table from Asia/Kolkata (default) to UTC.
+
+I hope you enjoyed this guide. Feel free to write to us or join the discussion on Apache Fineract mailing list or our slack channel. 
