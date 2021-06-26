@@ -2,11 +2,11 @@
 layout: post
 title: 'Welcome to Research by Muellners'
 author: [Saransh]
-tags: ['Getting Started']
-image: img/welcome-to-ghost.jpg
+tags: ['Getting Started, Muellners Foundation, Research Muellners, Muellners, Finscale, Open Source']
+image: img/globalcommunity.png
 date: '2020-05-21T23:46:37.121Z'
 draft: false
-excerpt: Welcome, it's great to have you here. This is a Getting Started guide for you to start sharing your ideas in Muellners ecosystem and on the Internet.
+excerpt: Welcome, it's great to have you here. This is a Getting Started guide for you to start sharing your ideas in Muellners Foundation's ecosystem and on the Internet.
 ---
 
 **A few things you should know upfront**:
