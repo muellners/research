@@ -5,10 +5,10 @@ image: img/testimg-cover.jpg
 author: [Saransh]
 date: 2020-06-13T07:03:47.149Z
 tags:
-  - fineract
-  - finscale
-  - strategy
-  - deployment
+  - apache fineract
+  - mifos x
+  - deployment fineract
+  - installation fineract
 ---
 
 This post describes the long standing myth about various scenarios and covers the basic installation of fineract 1.x over local and soft production.
