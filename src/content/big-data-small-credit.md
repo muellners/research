@@ -5,6 +5,7 @@ image: img/morton-mfi.jpg
 author: [Anshul Bhardwaj]
 date: 2021-01-07T07:03:47.149Z
 tags:
+  - fintech
   - mfi
   - micro-finance
   - big-data
