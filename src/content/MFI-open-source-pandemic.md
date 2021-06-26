@@ -9,6 +9,8 @@ tags:
   - micro-finance
   - finscale
   - fintech
+  - covid 19
+  - microfinance institutions
   - open source
   - Apache Fineract
 ---
