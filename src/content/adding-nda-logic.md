@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Re-engineering Loan Amounts associated with loan lifecycle events and creating Net Disbursal Amount
+title: Re-engineering Loan Amounts associated with loan lifecycle events and creating a new amount feature in Apache Fineract
 image: img/adding-nda-logic/nda.png
 author: [Audrey N.]
 date: 2021-06-28T09:02:35.149Z
@@ -11,11 +11,11 @@ tags:
 - net disbursal amount
 ---
 
-## `Adding Net Disbursal Amount logic to different Loan Lifecycle Events`
+## `Adding Net Disbursal Amount logic to different Loan Lifecycle Events in Fineract`
 
-_Net Disbursal Amount (NDA) represents the actual loan amount disbursed void of any fees or costs of the financial transactions. I worked on implementing this feature at certain event states of a loan’s lifecycle, for two loan categories - regular loans and refinanced loans._
+_Net Disbursal Amount (NDA) represents the actual loan amount disbursed void of any fees or costs of the financial transactions. I worked on implementing this feature at certain event states of a loan’s lifecycle, for two type of loan categories - regular loans and loans where a refinance takes place._
 
-NDA is an attribute included and recalculated with respect to certain events such as Approval, Disbursal, Reversal of both Approval and Disbursal of a loan lifecycle. As such, the indicative net disbursal amount is based on the loan amount at varying points of this cycle. These arithmetics are done for regular loans, but also enhanced for refinanced loans by taking into consideration the topup amount of the previous loan to be closed.
+NDA is an attribute included and recalculated with respect to certain events such as Approval, Disbursal, Reversal of both Approval and Disbursal of a loan lifecycle. As such, the indicative net disbursal amount is based on the loan amount at varying points of this cycle. These arithmetics are done for regular loans, but also enhanced for Top Up loans by taking into consideration the topup amount of the previous loan. To explain a bit here, a top up loan links an existing loan schedule in Fineract platform and carries the outstanding balance of this loan to a new loan(with refinanced conditions). A top up loan
 
 ## 1. Loan lifecycle event states:
 - Pre-Approval
