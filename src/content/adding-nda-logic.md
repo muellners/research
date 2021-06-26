@@ -5,17 +5,26 @@ image: img/adding-nda-logic/nda.png
 author: [Audrey N.]
 date: 2021-06-28T09:02:35.149Z
 tags:
-- fineract
-- loan amounts
-- loan lifecycle events
+- Apache fineract
+- refinance in Fineract
 - net disbursal amount
+- loan refinance mifos
+- loan lifecycle events
+- mifos x
+- re-engineering Fineract
 ---
 
 ## `Adding Net Disbursal Amount logic to different Loan Lifecycle Events in Fineract`
 
-_Net Disbursal Amount (NDA) represents the actual loan amount disbursed void of any fees or costs of the financial transactions. I worked on implementing this feature at certain event states of a loan’s lifecycle, for two type of loan categories - regular loans and loans where a refinance takes place._
+To explain a bit here, loan disbursal creates a transaction amount. The actual disbursal transaction may be dependent on few factors as there are activities such as processing charges collection, loan discounting, existing relationship, with the borrower in form of already running loan etc. Therefore, an indicative disbursal transaction amount helps the operational users of any Financial Institution using Fineract platform. This indicative disbursal amount is known as Net Disbursal Amount. 
 
-NDA is an attribute included and recalculated with respect to certain events such as Approval, Disbursal, Reversal of both Approval and Disbursal of a loan lifecycle. As such, the indicative net disbursal amount is based on the loan amount at varying points of this cycle. These arithmetics are done for regular loans, but also enhanced for Top Up loans by taking into consideration the topup amount of the previous loan. To explain a bit here, a top up loan links an existing loan schedule in Fineract platform and carries the outstanding balance of this loan to a new loan(with refinanced conditions). A top up loan
+_Net Disbursal Amount (NDA) represents the actual loan amount disbursed void of any fees or costs of the financial transactions. I worked on implementing this feature at certain event states of a loan’s lifecycle. This article covers use cases for two type of loan categories - regular loans and loans where a refinance takes place._
+
+A top up loan links an existing loan schedule and carries forward the outstanding balance of this loan to a new loan(with refinanced conditions of course). A top up loan however can be used for multiple type of loan behaviours and products where essentially the terms and conditions for the loan changes. These scenarios may take place as the borrower renegotiates the loan or the loan portfolio may get securitized,or financial institutions re negotiationg the credit with the borrower amongst others such scenarios.
+
+NDA is an attribute included and recalculated with respect to certain events such as Approval, Disbursal, Reversal of both Approval and Disbursal of a loan lifecycle. As such, the indicative net disbursal amount is based on the loan amount at varying points of this cycle. These arithmetics are done for regular loans, but also enhanced for Top Up loans by taking into consideration the topup amount of the previous loan. 
+I have cited examples from a recent partner case study by Muellners and therefore used philippine peso as the choice of currency here.
+
 
 ## 1. Loan lifecycle event states:
 - Pre-Approval
@@ -25,7 +34,7 @@ NDA is an attribute included and recalculated with respect to certain events suc
 - Approval Reversal
 
 ## 2. For a Regular Loan:
-Consider the following scenario:  Let’s use philippine peso as the choice of currency here.
+Consider the following scenario:  
 A loan application is submitted with a proposed amount of PHP 10,000. Assuming there are two charges;
 * charge 1 - fee due at disbursement which is a flat amount of 95 PHP
 * charge 2 - fee due at disbursement which is 7.5% of the loan amount
