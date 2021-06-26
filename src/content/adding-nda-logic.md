@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Re-engineering Apache Fineract for creating a new disbursal amount feature for both New and Top Up loan
+title: Re-engineering Apache Fineract for creating a new disbursal transaction feature for both New and Top Up loan
 image: img/adding-nda-logic/nda.png
 author: [Audrey N.]
 date: 2021-06-28T09:02:35.149Z
