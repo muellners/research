@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building Covid 19 pandemic resilience in Fineract systems with holiday based loan rescheduling capabilities. 
-image: img/bridge.jpg
+image: img/holiday-rescheduling/fineractcovid.png
 author: [Nasser Y.]
 date: 2021-02-08T07:03:47.149Z
 tags:
