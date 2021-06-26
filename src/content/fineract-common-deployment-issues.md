@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Most Common Deployment Issues Faced While Setting Up Fineract 1.x
-image: img/welcome-to-ghost.jpg
+image: img/common-deployment-issues/cdissues.png
 author: [Audrey N.]
 date: 2021-04-28T06:02:35.149Z
 tags:
