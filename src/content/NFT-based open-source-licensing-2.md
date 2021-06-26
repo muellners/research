@@ -5,9 +5,11 @@ image: img/NFTblog2.png
 author: [Devendra]
 date: 2021-06-22T07:41:47.149Z
 tags:
+  - NFTs
+  - non fungible token
+  - NFT license
+  - IP NFT licensing
   - blockchain
-  - open source
-  - NFT
   - open source
   - Avalanche
   - Finscale
