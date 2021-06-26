@@ -5,9 +5,10 @@ image: img/lockdown-survey-1.jpeg
 author: [Saransh , Johnson M. Chetty, Cici]
 date: 2021-06-11T07:03:47.149Z
 tags:
-  - ideas
-  - spaces
-  - survey
+  - Pandemic
+  - covid response
+  - Global Health
+  - covid India survey
   - covid-19
   - lockdown
 ---
