@@ -6,9 +6,14 @@ author: [Audrey N.]
 date: 2021-04-28T06:02:35.149Z
 tags:
 - fineract
-- deployment issues
-- solutions
-- deployment-relevant info
+- mifos x
+- apache fineract
+- deploying fineract 1.x
+- installation fineract 1.x
+- mifos installation
+- database error fineract 1.x
+- connection to server fineract 1.x
+- fineract hosting
 ---
 
 _I worked on a public deployment instance of Apache Fineract and stabilized this deployment for a month. During this time, I faced a lot of issues.
