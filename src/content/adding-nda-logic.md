@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Re-engineering Loan Amounts associated with loan lifecycle events and creating a new amount feature in Apache Fineract
+title: Re-engineering Apache Fineract for creating a new disbursal amount feature for both New and Top Up loan
 image: img/adding-nda-logic/nda.png
 author: [Audrey N.]
 date: 2021-06-28T09:02:35.149Z
@@ -11,6 +11,8 @@ tags:
 - loan refinance mifos
 - loan lifecycle events
 - mifos x
+- loan disbursal Fineract
+- top up loan fineract
 - re-engineering Fineract
 ---
 
