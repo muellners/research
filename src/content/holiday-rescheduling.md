@@ -1,12 +1,17 @@
 ---
 layout: post
-title: Re-engineering holiday based rescheduling capabilities in Fineract 1.x, ability to post holidays in the past too
+title: Building Covid 19 pandemic resilience in Fineract systems with holiday based loan rescheduling capabilities. 
 image: img/bridge.jpg
 author: [Nasser Y.]
 date: 2021-02-08T07:03:47.149Z
 tags:
-  - fineract
-  - improvements
+  - apache fineract
+  - mifos x
+  - holiday rescheduling loan
+  - loan reschedule fineract
+  - covid 19 pandemic 
+  - covid fineract
+  - fineract loan management
 ---
 
 _Covid Pandemic related repayment rescheduling now possible! Both in Past and Future._
