@@ -2,7 +2,7 @@
 layout: post
 title: 'Welcome to Research by Muellners'
 author: [Saransh]
-tags: ['Getting Started, Muellners Foundation, Research Muellners, Finscale, Open Source']
+tags: ['Getting Started']
 image: img/Globalcommunity.png
 date: '2020-05-21T23:46:37.121Z'
 draft: false
