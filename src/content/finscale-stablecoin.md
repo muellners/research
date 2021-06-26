@@ -5,6 +5,7 @@ image: img/callum-shaw-555357-unsplash.jpg
 author: [Devendra]
 date: 2021-02-15T07:41:47.149Z
 tags:
+  - Finscale
   - stablecoin
   - finscale
   - blockchain
