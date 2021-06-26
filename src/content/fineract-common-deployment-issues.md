@@ -5,9 +5,9 @@ image: img/common-deployment-issues/cdissues.png
 author: [Audrey N.]
 date: 2021-04-28T06:02:35.149Z
 tags:
-- fineract
+- Apache Fineract
 - mifos x
-- apache fineract
+- fineract
 - deploying fineract 1.x
 - installation fineract 1.x
 - mifos installation
