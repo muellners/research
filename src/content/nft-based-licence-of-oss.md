@@ -5,9 +5,9 @@ image: img/NFT1.png
 author: [Devendra]
 date: 2021-02-15T07:41:47.149Z
 tags:
-  - blockchain
+  - NFTs
   - open source
-  - NFT
+  - blockchain
   - open source
   - Avalanche
   - Finscale
