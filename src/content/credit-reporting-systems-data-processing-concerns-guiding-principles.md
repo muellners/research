@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Credit Reporting Systems and their use of information on borrowers, guiding data principles by World Bank
-image: img/morton-mfi.jpg
+title: Credit Reporting Systems and guiding data principles by World Bank
+image: img/crs.jpg
 author: [Anshul Bhardwaj]
 date: 2021-01-20T07:03:47.149Z
 tags:
