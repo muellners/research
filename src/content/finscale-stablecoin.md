@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A paper on Finscale Stablecoin on Avalanche Blockchain.
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/fins.png
 author: [Devendra]
 date: 2021-02-15T07:41:47.149Z
 tags:
