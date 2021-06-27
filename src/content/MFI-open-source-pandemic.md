@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A new study on MFI, Covid Pandemic and role of open source engineering in the sector.
-image: img/morton-mfi.jpg
+image: img/mfi.png
 author: [SJ Stapelton]
 date: 2020-12-18T07:03:47.149Z
 tags:
