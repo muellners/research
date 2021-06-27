@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open source products and businesses
-image: img/bridge.jpg
+image: img/oss.jpg
 author: [Himani]
 date: 2020-07-21T04:02:47.149Z
 tags:
