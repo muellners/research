@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research on Blockchain Frameworks for BitRupee
-image: img/bitrupee.png
+image: img/bitrupee1.png
 author: [Advait M.]
 date: 2020-06-01T07:03:47.149Z
 tags:
