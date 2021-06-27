@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deploying fineract 1.x end to end for local and soft production
-image: img/testimg-cover.jpg
+image: img/deploy1x.png
 author: [Saransh]
 date: 2020-06-13T07:03:47.149Z
 tags:
