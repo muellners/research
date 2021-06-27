@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Story of Big Data Small Credit (BDSC)in digital financial inclusion
-image: img/bigdata.png
+image: img/bdsc.png
 author: [Anshul Bhardwaj]
 date: 2021-01-07T07:03:47.149Z
 tags:
