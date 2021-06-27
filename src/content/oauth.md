@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Studying OAuth Protocols for BitRupee
-image: img/callum-shaw-555357-unsplash.jpg
+image: img/oauth2.jpg
 author: [Advait M.]
 date: 2020-07-01T07:03:47.149Z
 tags:
