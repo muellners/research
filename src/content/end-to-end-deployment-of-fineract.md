@@ -1,7 +1,7 @@
 ---
 layout: post
 title: End to End deployment of Fineract on AWS Lightsail Instance
-image: img/e2edeploy.png
+image: img/e2e-fineract-deployment/e2edeploy.png
 author: [Audrey N.]
 date: 2021-03-04T02:16:35.149Z
 tags:
