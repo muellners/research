@@ -175,7 +175,7 @@ const hashCheck(originalHash, input): boolean
 {
 	
     // originalHash => hash to test against
-	// input => input data used for generating originalHash
+    // input => input data used for generating originalHash
 
 	var newHash = hash(input)
 	return originalHash == newHash
@@ -329,5 +329,7 @@ We have discussed the structure, implementation and applications of blockchain t
 ### References 
 
 [1] https://bitcoin.org/bitcoin.pdf
+<br/>
 [2] A. Back, "Hashcash - a denial of service counter-measure" http://www.hashcash.org/papers/hashcash.pdf, 2002.
+<br/>
 [3] https://www.investopedia.com/tech/how-does-bitcoin-mining-work/
