@@ -199,8 +199,8 @@ The newly created transaction is stored inside a block and the data associated i
 ```ts
 const mineBlock(data, lastBlock): Block
 {
-	// data => transaction data to be stored in block
-	// lastBlock => the last block of the chain
+    // data => transaction data to be stored in block
+    // lastBlock => the last block of the chain
 
     var timestamp, hashValue, difficulty, nonce = 0
     var lastHash = lastBlock.hashValue
