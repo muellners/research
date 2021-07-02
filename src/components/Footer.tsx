@@ -13,7 +13,7 @@ export const Footer: React.FC = () => {
     <footer css={[outer, SiteFooter]}>
       <div css={[inner, SiteFooterContent]}>
         <section className="copyright">
-        <!--  <Link to="/">{config.title}</Link> &copy;--> {new Date().getFullYear()}{' '}
+         {/* <Link to="/">{config.title}</Link> &copy; */}{new Date().getFullYear()}{' '} 
           {config.footer && (
             <Link to="/">
               | {config.title} {config.footer}
