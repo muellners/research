@@ -196,7 +196,7 @@ Whenever a transaction is created, the data is generated and packed together to 
 
 The newly created transaction is stored inside a block and the data associated is used along with the block metadata to generate a unique hash for the block. This process is called mining a block. The pseudo code for mining a block can be written as follows : 
 
-```ts
+```typescript
 const mineBlock(data, lastBlock): Block
 {
     // data => transaction data to be stored in block
@@ -237,7 +237,7 @@ Steps 1 through 6 are repeated for every new block that is created and for every
 	
 Whenever a node is validating a block to be added to the chain, apart from hash checking, it also performs some other checks to make sure that the new block follows the norms set by the genesis block and that the current chain is valid. The pseudo code can be written as : 
 
-```ts
+```typescript
 const isChainValid(chain): boolean
 {
 	// chain => linked list of blocks 
