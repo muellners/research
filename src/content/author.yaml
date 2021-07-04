@@ -86,6 +86,14 @@
   website: https://github.com
   location: USA
   profileImage: img/bridge.jpg
+  - id: Kshitij
+  avatar: avatars/ghost.png
+  bio: Fellow at Muellners
+  twitter: kshitijchitnis
+  facebook: ghost
+  website: https://morphtail.vercel.app
+  location: India
+  profileImage: img/bridge.jpg
 - id: Yatish Kelkar
   avatar: avatars/ghost.png
   bio: Fellow at Muellners
