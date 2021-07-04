@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A research based overview of Blockchain and it's application in cryptocurrency
-image: img/indepth-overview-of-blockchain/yatish.png
+image: img/indepth-overview-of-blockchain/yatish.jpg
 author: [Yatish Kelkar]
 date: 2021-07-01T07:03:47.149Z
 tags:
@@ -333,3 +333,5 @@ We have discussed the structure, implementation and applications of blockchain t
 [2] A. Back, "Hashcash - a denial of service counter-measure" http://www.hashcash.org/papers/hashcash.pdf, 2002.
 <br/>
 [3] https://www.investopedia.com/tech/how-does-bitcoin-mining-work/
+
+[cover image attribution] : [https://www.freepik.com/vectors/technology](https://www.freepik.com/vectors/technology)
