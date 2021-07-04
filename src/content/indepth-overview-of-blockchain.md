@@ -333,3 +333,5 @@ We have discussed the structure, implementation and applications of blockchain t
 [2] A. Back, "Hashcash - a denial of service counter-measure" http://www.hashcash.org/papers/hashcash.pdf, 2002.
 <br/>
 [3] https://www.investopedia.com/tech/how-does-bitcoin-mining-work/
+
+[cover image attribution] : [https://www.freepik.com/vectors/technology](https://www.freepik.com/vectors/technology)
