@@ -86,7 +86,7 @@
   website: https://github.com
   location: USA
   profileImage: img/bridge.jpg
-  - id: Kshitij
+- id: Kshitij
   avatar: avatars/ghost.png
   bio: Fellow at Muellners
   twitter: kshitijchitnis
@@ -100,5 +100,13 @@
   twitter: none
   facebook: ghost
   website: https://yatishkelkar.netlify.app/
+  location: India
+  profileImage: img/bridge.jpg
+- id: Gaurav
+  avatar: avatars/ghost.png
+  bio: Fellow at Muellners
+  twitter: none
+  facebook: ghost
+  website: https://gaurav1620.github.io
   location: India
   profileImage: img/bridge.jpg
