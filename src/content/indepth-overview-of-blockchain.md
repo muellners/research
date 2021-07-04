@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A research based overview of Blockchain and it's application in cryptocurrency
-image: img/indepth-overview-of-blockchain/yatish.png
+image: img/indepth-overview-of-blockchain/yatish.jpg
 author: [Yatish Kelkar]
 date: 2021-07-01T07:03:47.149Z
 tags:
