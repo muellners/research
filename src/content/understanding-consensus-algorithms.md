@@ -2,7 +2,7 @@
 layout: post
 title: Understanding Consensus algorithms in Blockchain based applications
 image: img/understanding-consensus-algorithms/blockchain-mining-consensus.jpg
-author: [Gaurav Khairnar]
+author: [Gaurav]
 date: 2021-07-01T07:03:47.149Z
 tags:
   - Blockchain
