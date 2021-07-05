@@ -16,29 +16,29 @@ tags:
 
 ### **Abstract** 
 
-With the rise in popularity of terms like cryptocurrency, bitcoin, digital money and cryptography, the world is fast moving towards more secure means of money transfer and safe and immutable transactions. Blockchain provides an effective way to ensure secure and open transactions to take place without the fear of manipulation of third parties. Blockchain technology is regarded by many IT innovators and experts as one of the most significant technological innovations in recent years in the field of digitization. The technology is founded upon the concept of a distributed ledger, a way of decentralized cataloging and accounting for large volumes of data. Blockchain is viewed by many as a disruptive technology that “will revolutionize business and redefine companies and economies.” Developed as a data management technology specifically for Bitcoin cryptocurrency, the interest in Blockchain technology has been increasing since the idea was coined in 2008. 
+We have seen a rise in popularity of terms like cryptocurrency, bitcoin, digital money and cryptography. The world is moving fast towards more secure means of money transfer with safe and immutable transactions. Blockchain provides an effective way to ensure secure and open transactions to take place without the fear of manipulation by third parties. Blockchain technology is regarded by many IT innovators and experts as one of the most significant technological innovations in recent years in the field of digitization. The technology is founded upon the concept of a distributed ledger, a way of decentralized cataloging and accounting for large volumes of data. Blockchain is viewed by many as a disruptive technology that “will revolutionize business and redefine companies and economies.” Developed as a data management technology specifically for Bitcoin cryptocurrency, the interest in Blockchain technology has been increasing since the idea was coined in 2008. 
 
-The rise of various digital cryptocurrencies such as Bitcoin and Ethereum have emphasized the importance and upheld the relevance of blockchain and blockchain based applications. With more and more people and organizations moving towards embracing digital money and digital transactions, understanding the working of cryptocurrency becomes utmost important
+The rise of various digital cryptocurrencies such as Bitcoin and Ethereum have emphasized the importance and upheld the relevance of blockchain and blockchain based applications. With more and more people and organizations moving towards embracing digital money and digital transactions, understanding the working of cryptocurrency becomes utmost important.
 
 ### **Motivation**
 
-The idea of Decentralized Social Networks is being favored by a community, which keeps increasing with every passing day, as more and more people become aware of and understand it. Blockchain is the technology used to implement Decentralized Social Networks, generally. Blockchain provides a wide number of values such as efficiency, transparency, privacy, reliability, incentivization and elimination of third parties. Blockchain is fast replacing traditional methods of data storage such as centralized databases owing to its properties such as immutable records, public distributed ledger and security from hackers. More and more companies and organizations are adopting blockchain into their workflows and work mechanisms. Blockchain is at the heart of crypto-currency, and hence it becomes vital for us to understand it to ensure smooth working of our product.
+The idea of 'Decentralized Social Networks' is being favored by a community, which keeps increasing with every passing day, as more and more people become aware of and understand it. Blockchain is the technology used to implement Decentralized Social Networks, generally. Blockchain provides a wide number of values such as efficiency, transparency, privacy, reliability, incentivization and elimination of third parties. Blockchain is fast replacing traditional methods of data storage such as centralized databases owing to its properties such as immutable records, public distributed ledger and security from hackers. More and more companies and organizations are adopting blockchain into their workflows and work mechanisms. Blockchain is at the heart of crypto-currency, and hence it becomes vital for us to understand it to ensure smooth working of our products.
 
 ### **Aim and objectives**
 
 - #### Aim:
     
-    To study and understand Blockchain technology concept and it’s applications in Cryptocurrency
+    In this blog, we have studied Blockchain technology concept and it’s applications in Cryptocurrency.
 
 
 - #### Objectives:
-    - To research about the origins and conceptualization of Blockchain Technology
+    - To research about the origins and conceptualization of Blockchain Technology.
 
-    - To understand the inner working of Blockchain technology 
+    - To understand the inner working of Blockchain technology. 
 
-    - To take an overview of the cryptographic algorithms used in Blockchain technology
+    - To take an overview of the cryptographic algorithms used in Blockchain technology.
 
-    - To understand the concept of cryptocurrency and its correlation with Blockchain
+    - To understand the concept of cryptocurrency and its correlation with Blockchain.
 
 ### **Introduction to the topic** 
 
