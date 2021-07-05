@@ -27,7 +27,7 @@ tags:
 5. Once post is written commit and push and see live in action.
 
 
-Rules that govern your published content:
+Community Guidelines:
 
 1. All content is published as OPEN SOURCE for the greater good of humanity. 
 2. Please properly cite credits to images and content used from any third party. The author of an article is responsible to correctly attribute the source or origin of a content. It is recommended to use open source images or design yourself.
@@ -36,5 +36,6 @@ Rules that govern your published content:
 5. It is at the discretion of the Muellners Foundation and its open source community to reject, delete an already published article if it does not meet the standards laid down in this Readme file.
 6. Also don't forget to cite hyperlinks of hyperlinked text.
 7. Well that is all for now. 
+8. You CANNOT post any political, religious or human sensitive content without running through the board of Muellners Foundation. In the case, you want to add such a sensitive content, please write to info@muellners.org.  
 
 Read the [Open Source Usage and Delivery Policy here](https://docs.muellners.info/open-source-policies/open-source-usage-and-delivery-policies).
