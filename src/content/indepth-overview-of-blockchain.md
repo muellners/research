@@ -32,27 +32,21 @@ The idea of 'Decentralized Social Networks' is being favored by a community, whi
 
 
 - #### Objectives:
-    - To research about the origins and conceptualization of Blockchain Technology.
-
-    - To understand the inner working of Blockchain technology. 
-
-    - To take an overview of the cryptographic algorithms used in Blockchain technology.
-
-    - To understand the concept of cryptocurrency and its correlation with Blockchain.
+    - Our objective was to research about the origins and conceptualization of Blockchain Technology. In this article, I have also tried to understand the inner working of Blockchain technology. I have tried to take a stock of the cryptographic algorithms that are used in Blockchain technology. I have also covered the concept of cryptocurrency and its correlation with Blockchain.
 
 ### **Introduction to the topic** 
 
 Blockchain is a type of database, which collects information together in groups, also known as blocks, that hold sets of information. Blocks have certain storage capacities and, when filled, are chained onto the previously filled block, forming a chain of data known as the “blockchain.” All new information that follows that freshly added block is compiled into a newly formed block that will then also be added to the chain once filled.
 
-One key difference between traditional databases and Blockchain, is that in traditional databases, the data can be updated as well as deleted, but in Blockchain, the addition of data is permanent and cannot be changed by anyone, thus is immutable. 
+One key difference between traditional databases and Blockchain, is that in traditional databases, the data can be updated as well as deleted, but in Blockchain, the addition of data is permanent and cannot be changed by anyone. Thus, it is immutable. 
 
 Although there exist private centralized blockchains, most blockchains are decentralized, meaning that there is no central authority that governs it. Because of the decentralized nature of Bitcoin’s blockchain, all transactions can be transparently viewed by anyone within the network.
 
-Further details about the structure, working and security of blockchain and it’s components has been explored in the further sections.
+Further details about the structure, working and security of blockchain and it’s components have been explored in the later sections.
 
 ### **Literature Review**
 
-The idea of digital currency was first conceptualized in a 2008 paper[1] written a person or a group of persons going under the pseudonym Satoshi Nakamoto titled “Bitcoin: A Peer-to-Peer Electronic Cash System”. The paper served as Blockchain’s primary reference for implementation. As a part of the implementation, Satoshi Nakamoto created the first blockchain database. 
+The idea of digital currency was first conceptualized in a 2008 paper[1] written by a person or a group of persons going under the pseudonym Satoshi Nakamoto titled “Bitcoin: A Peer-to-Peer Electronic Cash System”. The paper served as Blockchain’s primary reference for implementation. As a part of bitcoin's implementation, Satoshi Nakamoto created the first blockchain database. 
 
 Within this paper, Nakamoto devised a system to solve the double spending problem for digital currency using a peer-to-peer (P2P) network. Double spending gave rise to the possibility of spending the same digital money or token twice at the same time. When such transactions are created, they go into the pool of unconfirmed transactions and from there, both the transactions that have been created with the same money get into a race. If one of them is accepted before the other, then the second one is deemed invalid and hence is discarded. However, if both transactions are picked up or accepted simultaneously, then it gives rise to the double spending problem wherein the same money has been used to complete multiple transactions. One problem to solve this was the introduction of a central authority who would oversee and manage these transactions, however this would have incurred additional costs of creating and maintaining the central authority itself. 
 
@@ -90,14 +84,13 @@ Some core blockchain architecture components include the following.
 
 - Transaction - smallest building block of a blockchain system (records, information, etc.) that serves as the purpose of blockchain. One node may contain one or more transactions.
 
-- Block - a data structure used for keeping a set of transactions which is distributed to all nodes in the network. Contains other variables, properties and metadata such as nonce, difficulty, lastHash etc. 
+- Block - a data structure used for keeping a set of transactions,and is distributed to all nodes in the network. Contains other variables, properties and metadata such as nonce, difficulty, lastHash etc. 
 
 - Chain - a sequence of blocks in a specific order. Logically, this is similar to linked lists and are implemented as such. 
 
 - Miners - specific nodes which perform the block verification process before adding anything to the blockchain structure. Miners get some incentive for verifying (mining) these blocks. Here, mining a block is synonymous to verifying a transaction and adding a new block to the blockchain. 
 
 - Consensus protocol - a set of rules and arrangements to carry out blockchain operations. If the consensus protocol fails, then the chain is deemed to be invalid and this signifies breach or manipulation of data. 
-
 
 Figure below illustrates a simplified view of the blockchain structure. All the blocks are connected in a linked list structure and each each block will store a reference to the previous block.
 
@@ -127,7 +120,7 @@ The difficulty value defines the difficulty of the problem that must be solved i
 
 The timestamp defines the exact moment of the creation of the block. The units of timestamp differs based on the programming constructs and languages used to create the blockchain. 
 
-None is a value that is incremented to keep a count of the attempts to satisfy the conditions set by the proof of work algorithm. Until these conditions are satisfied, the nonce value is continually incremented. 
+Nonce is a value that is incremented to keep a count of the attempts to satisfy the conditions set by the proof of work algorithm. Until these conditions are satisfied, the nonce value is continually incremented. 
 
 The third set of metadata includes a structure called the Merkel Tree Root. A Merkle Tree is a data structure used for efficiently summarizing and verifying the integrity of large sets of data. Merkle trees are also known as a Binary Hash Tree. Merkle Trees are binary trees containing cryptographic hashes. Merkle trees produce an overall digital fingerprint of the entire set of transactions. A Merkle tree is built by recursively hashing pairs of nodes until there is only one hash, called the root, or Merkle root.
 
@@ -139,7 +132,7 @@ Apart from the headers, each block includes a list of transactions or data that 
 
 #### **Hashing**
 	
-The process of hashing involves attaining an output of a fixed size from any given output. Hashing is achieved by passing the input through a cryptographic hash function. In the case of blockchain, each block has a hash value which represents the identity of that block across the entire chain. This hash value is obtained by passing the block metadata properties and transaction data through a hash function which uses a cryptographic hashing algorithm, most commonly the SHA256 algorithm. 
+The process of hashing involves attaining an output of a fixed size from any given input. Hashing is achieved by passing the input through a cryptographic hash function. In the case of blockchain, each block has a hash value which represents the identity of that block across the entire chain. This hash value is obtained by passing the block metadata properties and transaction data through a hash function which uses a cryptographic hashing algorithm, most commonly the SHA256 algorithm. 
 
 Cryptographic hash functions add security features to typical hash functions, making it more difficult to detect the contents of a message or information about recipients and senders. 
 In particular, cryptographic hash functions exhibit these three properties:
@@ -192,7 +185,7 @@ Hash checking is often employed while implementing the replacement chain policy 
 
 Whenever a transaction is created, the data is generated and packed together to store inside a block. 
 
-2.	The transaction is stored inside a block
+2.	The transaction is stored inside a block.
 
 The newly created transaction is stored inside a block and the data associated is used along with the block metadata to generate a unique hash for the block. This process is called mining a block. The pseudo code for mining a block can be written as follows : 
 
@@ -217,19 +210,19 @@ const mineBlock(data, lastBlock): Block
 }
 ```
 
-3.	The block is propagated to every node in the network
+3.	The block is propagated to every node in the network.
 
 Since all the nodes are connected to one another in a peer to peer network, the node which wants to add this new block broadcasts it across the whole network, thus every other node receives this block for further verification. 
 
-4.	Every node validates this transaction
+4.	Every node validates this transaction.
 
 Once every node receives the block, they need to verify if the block is correct. This is done to ensure that there is no discrepancy in the database content. Block validation involves hash checking discussed previously as well as additional checks involving the chain. 
 
-5.	Block is added to existing chain of blocks
+5.	Block is added to existing chain of blocks.
 
 Once every node verifies the block, it adds the block to its current blockchain copy. Internally, the node may create a copy of the current blockchain, append the new block to it and replace the current blockchain with the newly created chain. In such cases, the node follows a replacement chain policy discussed in further sections. 
 
-6.	Transaction is complete
+6.	Transaction is complete.
 
 Steps 1 through 6 are repeated for every new block that is created and for every new transaction if one transaction is stored in one block. 
 
@@ -257,13 +250,13 @@ const isChainValid(chain): boolean
 
 #### **Chain Replacement Policy in Blockchain**
 	
-While replacing the original chain with the new chain with the appended block, the node may choose to run some additional checks to ensure that replacing the chain wont cause any security threats. The length of both the chains is compared and if the new chain is of same or lesser length than the original chain, then that chain is deemed to be invalid and is disposed. In such a case, no chain replacement takes place. 
+While replacing the original chain with the new chain with the appended block, the node may choose to run some additional checks to ensure that replacing the chain won't cause any security threats. The length of both the chains gets compared and if the new chain is of the same or lesser length than the original chain, then that chain is deemed to be invalid and is disposed. In such a case, no chain replacement takes place. 
 
 ### **Application of Blockchain in Cryptocurrency** 
 
 #### **Introduction**
 
-A cryptocurrency is a medium of exchange like money ( US Dollar, INR ) but in a digital form which uses encryption techniques to control it’s creation and verify the transfer of funds. Bitcoin and other prominent cryptocurrencies have gained much attention since the last several years. Globally known as digital coin and virtual currency, this cryptocurrency is gained and traded within the blockchain system. The blockchain technology adopted in using the cryptocurrency has raised the eyebrows within the banking sector, government, stakeholders and individual investors. 
+A cryptocurrency is a medium of exchange like money ( EUR, INR ) but in a digital form which uses encryption techniques to control it’s creation and verify the transfer of funds. Bitcoin and other prominent cryptocurrencies have gained much attention since the last several years. Globally known as digital coins or virtual currency, the cryptocurrencies have gained and traded within the blockchain system. The blockchain technology adopted in using the cryptocurrency has also raised eyebrows within the banking sector, government, stakeholders and individual investors. 
 
 Bitcoin, introduced by Nakamoto, was the first form of cryptocurrency to use the blockchain and is currently the most popular amongst them. Other popular currencies include Ethereum, Litecoin and Nexo. 
 
@@ -271,7 +264,7 @@ In India, during recent years, the utilization of technology, including blockcha
 
 #### **Usage of Blockchain in Cryptocurrency**
 
-The concept of blockchain involves mining blocks by solving complex computational problems. These problems involve trying to generate a hash that is identical or close to the target hash. Specialized people known as miners are responsible for the mining of such blocks and are responsible for the minting of new cryptocurrency units. These miners are rewarded for their efforts with a fixed amount of cryptocurrency. Once a currency has been mined, any person can own it by exchanging it with some other form of money ( essentially, the person ‘buys’ the cryptocurrency ). The price of buying cryptocurrency may vary based on the amount of currency mined so far, market situations etc. For example, as of Nov. 2020, there were around 18.5 million bitcoins in circulation. Aside from the coins minted via the genesis block (the very first block, which was created by founder Satoshi Nakamoto), every single one of those Bitcoin came into being because of miners. In the absence of miners, Bitcoin as a network would still exist and be usable, but there would never be any additional bitcoin. There will eventually come a time when Bitcoin mining ends; per the Bitcoin Protocol, the total number of bitcoins will be capped at 21 million. However, because the rate of bitcoin "mined" is reduced over time, the final bitcoin won't be circulated until around the year 2140. This does not mean that transactions will cease to be verified. Miners will continue to verify transactions and will be paid in fees for doing so in order to keep the integrity of Bitcoin's network.
+The concept of blockchain involves mining blocks by solving complex computational problems. These problems involve trying to generate a hash that is identical or close to the target hash. Specialized groups known as miners are responsible for the mining of such blocks and are responsible for the minting of new cryptocurrency units. These miners are rewarded for their efforts with a fixed amount of cryptocurrency. Once a currency has been mined, any person can own it by exchanging it with some other form of money ( essentially, the person ‘buys’ the cryptocurrency ). The price of buying cryptocurrency may vary based on the amount of currency mined so far, market situations etc. For example, as of Nov. 2020, there were around 18.5 million bitcoins in circulation. Aside from the coins minted via the genesis block (the very first block, which was created by founder Satoshi Nakamoto), every single one of those Bitcoin came into existence because of miners. In the absence of miner activity, Bitcoin as a network would still exist and be usable, but there would never be any additional bitcoin. There will eventually come a time when Bitcoin mining ends; per the Bitcoin Protocol, the total number of bitcoins will be capped at 21 million. However, because the rate of bitcoin "mined" is reduced over time, the final bitcoin won't be circulated until around the year 2140. This does not mean that transactions will cease to be verified. Miners will continue to verify transactions and will be paid in fees for doing so in order to keep the integrity of Bitcoin's network.
 
 
 1.	Difficulty Adjustment while mining currency
@@ -280,14 +273,14 @@ In order to ensure the smooth functioning of the blockchain and its ability to p
 
 2.	Mining Rewards
 
-One of the biggest incentive for people to mine cryptocurrency is the mining reward, i.e. the fixed amount of cryptocurrency they receive for spending the computing power to solve the mathematical problem. The mining process required high end GPU’s and devices with extremely high computing powers. The reard amount, although fixed, changes every few years to adjust for the amount of currency mined. For example, in the case of Bitcoin, the rewards are reduced by half every four years. When bitcoin was first mined in 2009, mining one block would earn a miner 50 BTC. In 2012, this was halved to 25 BTC. By 2016, this was halved again to 12.5 BTC. On May 11, 2020, the reward halved again to 6.25 BTC. In November of 2020, the price of Bitcoin was about $17,900 per Bitcoin[3]. Fig.4.2.1 illustrates the rewards for Bitcoin mining from 2009 to 2020. 
+One of the biggest incentive for people to mine cryptocurrency is the mining reward, i.e. the fixed amount of cryptocurrency they receive for spending the computing power to solve the mathematical problem. The mining process required high end GPU’s and devices with extremely high computing powers. The reward amount, although fixed, changes every few years to adjust for the amount of currency mined. For example, in the case of Bitcoin, the rewards are reduced by half every four years. When bitcoin was first mined in 2009, mining one block would earn a miner 50 BTC. In 2012, this was halved to 25 BTC. By 2016, this was halved again to 12.5 BTC. On May 11, 2020, the reward halved again to 6.25 BTC. In November of 2020, the price of Bitcoin was about $17,900 per Bitcoin[3].
 
 #### **Advantages**
 
 
-1.	Open code for mining crypto currency 
+1.	Open code for mining crypto currency: Anonymity
 
-Cryptocurrency  applies the same algorithms that are used in online banking. The only difference of Internet banking is the disclosure of information about the users. All information about the transaction in the BTC network is shared (how, when), but there is no data about the recipient or the sender of the coins (there is no access to the personal information of the owner`s wallet). 
+Cryptocurrency  applies the same algorithms that are used in online banking. The only difference of Internet banking is the disclosure of information about the users. E.g all information about the transaction in the BTC network is shared (how, when), but there is no data about the recipient or the sender of the coins (there is no access to the personal information of the owner`s wallet). 
 
 2.	No inflation 
 
@@ -295,19 +288,19 @@ The maximum number of currency in case of BTC is strictly limited by 21 million 
 
 3.	Peer-to-peer cryptocurrency network 
 
-In such networks there is no master server, which is responsible for all operations. Exchange of information (in this case — money) is between 2-3 or more software clients. All installed by users program-wallets are part of a bitcoin network. Each client stores a record of all committed transactions and the number of bitcoins in each wallet. Transactions are made by hundreds of distributed servers. Neither banks or taxes, nor governments can control the exchange of money between. 
+In such networks there is no master server, which is responsible for all operations. Exchange of information (in this case — money) is between 2-3 or more software clients. All installed by users program-wallets are part of a bitcoin network. Each client stores a record of all committed transactions and the number of bitcoins in each wallet. Transactions are made by hundreds of distributed servers. Neither banks nor governments can control the exchange of money between two wallets. 
 
 4.	Unlimited possibilities of transaction 
 
-Each of the wallet holders can pay to anyone, anywhere and any amount. The transaction can not be controlled or prevented, so one can make transfers anywhere in the world wherever another user with a Bitcoin wallet is located.
+Each of the wallet holders can pay to anyone, anywhere and any amount. The transaction can not be controlled or prevented, so one can make transfers anywhere in the world wherever another user with a cryptocurrency wallet is located.
 
 5.	Decentralization  
 
-There is no central control authority in the network, the network is distributed to all participants, each computer mining bitcoins is a member of this system. This means that the central authority has no power to dictate rules for owners of bitcoins. And even if some part of the network goes offline, the payment system will continue to operate stable. 
+There is no central control authority in the network, the network is distributed to all participants, each computer mining bitcoins is a member of this system. This means that the central authority has no power to dictate rules for owners of a cryptocurrency. And even if some part of the network goes offline, the payment system will continue to operate stable. 
 
 6.	Easy to use
 
-Using digital currencies is generally is convenient for companies. The company needs approximately 5 minutes to create a BTC wallet and immediately starts to use it without any questions and commissions. 
+Using digital currencies is generally convenient for millenials and people with smart phones. Anybody can quickstart within minutes to create a wallet(e.g BTC wallet) and immediately starts to use it without any questions and commissions. 
 
 
 
@@ -320,7 +313,7 @@ Almost all of the ups and downs of the BTC value depend directly on the declared
 
 2.	Large risks 
 
-Risks of investing in cryptocurrency are related to risk of money laundry, terrorist and other illegal activity financing, lack of a central issuer, which means that there is no legal formal entity to guaranty in case of any bankruptcy, and alike. The cryptocurrency is prone to frequent fluctuations and crashes. 
+Risks of investing in cryptocurrency are related to risk of money laundering, terrorist and other illegal activity financing, lack of a central issuer, which means that there is no legal formal entity to guaranty in case of any bankruptcy, and alike. The cryptocurrency is prone to frequent fluctuations and crashes. 
 
 ### Conclusion 
 
