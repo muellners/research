@@ -112,6 +112,9 @@ The rise of mobile phone sales and internet expansion has led to FinTech startup
 Mobile money also serves as an electronic wallet for users as they no longer need to move along with physical cash. Users can buy fuel, do shopping in supermarkets, get drinks in bars and snacks and pay using mobile money. Enterprises and institutions like Electricity supply company (ENEO), General Directorate of Taxation, CAMRAIL amongst others are also taking advantage of the technological revolution to facilitate revenue collection. Today, it is easier to pay electricity bills via mobile money with the enterprise attending to several clients at a time than the long and tiring queues at their counters.
 Orange and MTN Money Agents can be found on streets and in local neighborhoods.
 
+![](img/financial-inclusion-in-africa/img1.jpg)
+Photo by <a href="https://unsplash.com/@tamba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Edouard TAMBA</a> on <a href="https://unsplash.com/@tamba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 * Maviance, the owner of digital payment platform for merchants Smobilpay, raised a US$3 million seed round from pan-African fintech MFS Africa, Business in Cameroon reported in May. The investment will help fund Maviance’s expansion across the broader Economic and Monetary Community of Central African States (CEMAC) and extend its footprint. The company claims it serves over 500,000 unique customers monthly.
 
 * Diool is another Cameroonian paytech startup that raised considerable funding this year. The startup, which provides small merchants with payment capabilities, announced in February a US$3.5 million funding round to scale operations. Founded in 2015, Diool has reportedly signed up more than 2,500 merchants and has processed over US$120 million in transactions.
@@ -159,6 +162,9 @@ Cameroon’s economy is rooted in agriculture, something found mostly in rural r
 
 While subsistence farming can provide a family with a self-sufficient method towards survival, their financial success is dependent on a non-hazardous climate and funding.
 Most farmers sell their products at the marketplace, where physical cash is exchanged for goods. Out of the 90 percent who do not own a bank account, the majority reported that they had no money to save or made no regular income.
+
+![](img/financial-inclusion-in-africa/img2.jpg)
+Photo by <a href="https://unsplash.com/@tamba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Edouard TAMBA</a> on <a href="https://unsplash.com/@tamba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ### A Need to Expand Credit Access in Cameroon
 There are currently around 840 or so accredited microfinance institutions in Cameroon [4]. The country’s loan performance has worsened due to the number of uninformed loans given to consumers. In 2018, the Risk Prevention Bureau for Microfinance (CREMF) was established as a system that helps these institutions track and disseminate the correct data on all their customers. This makes it somewhat easier for them to recover borrowed money. However, the challenge is still present: the majority of these microfinance institutions are in rural areas where a majority of these famers reside, but there is low internet connectivity. This makes it difficult to continue giving out loans to those who need them.
