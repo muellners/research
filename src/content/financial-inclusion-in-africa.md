@@ -91,13 +91,13 @@ Fintech solutions have definitely altered the slow trajectory of financial inclu
 
 Affordable financial technology includes open-source products.They provide reliable, robust, and affordable solutions for entrepreneurs, financial institutions, and service providers to offer financial services to the world’s underbanked and unbanked population. They include both mobile and cloud-based solutions, which often enable digital transactions. Examples include:
 
-* Apache Fineract (https://fineract.apache.org/)
-* Finscale (https://www.finscale.org/)
-* Cyclos (https://www.cyclos.org/)
-* MyBanco (https://mybanco.org/)
-* OpenCBS (https://opencbs.com/)
-* OpenBank (https://www.openbank.es/)
-* Cobis (https://www.cobiscorp.com)
+* <a href="https://fineract.apache.org/" target="_blank">Apache Fineract</a>
+* <a href="https://www.finscale.org/" target="_blank">Finscale</a>
+* <a href="https://www.cyclos.org/" target="_blank">Cyclos</a>
+* <a href="https://mybanco.org/" target="_blank">MyBanco</a>
+* <a href="https://opencbs.com/" target="_blank">OpenCBS</a>
+* <a href="https://www.openbank.es/" target="_blank">OpenBank</a>
+* <a href="https://www.cobiscorp.com" target="_blank">Cobis</a>
 
 ## Status of the Fintech Industry in Cameroon
 As Africa experiences the highest rate of growth of digital consumerism in the world, Cameroon finds itself at the forefront of the continent’s technological boom. This rise of the fintech industry in Cameroon is quickly changing the landscape of the country, including the investment opportunities these companies are bringing in, as well as the digital financial services they provide. This could prove key to building Cameroon’s economy and improving the lives of many of its impoverished citizens.
@@ -131,12 +131,11 @@ Besides digital payments and mobile money, other fintech segments are also prese
 
 ### Fintech Startups:
 
-* SEED (https://www.seeds.cm/)
-* FinTech Ltd (https://www.fintech.cm/)
-* ZuumPay
-* Guanxi Invest (https://www.guanxi-invest.com/)
-* Zito Financial (https://zitofinancial.cm/)
-* WazaPay (https://wazapay.net/)
+* <a href="https://www.seeds.cm/" target="_blank">SEED</a>
+* <a href="https://www.fintech.cm/" target="_blank">FinTech Ltd</a>
+* <a href="https://www.guanxi-invest.com/" target="_blank">Guanxi Invest</a>
+* <a href="https://zitofinancial.cm/" target="_blank">Zito Financial</a>
+* <a href="https://wazapay.net/" target="_blank">WazaPay</a>
 
 ### Why the phobia of Fintech
 Even though we can see a few fintech startups gaining grounds in Cameroon, they really have trouble making their way through the system. While some countries in the African continent are already on another stage of consuming banking, insurance, and credit, Cameroon is still at the nascent stage which is the transfer and payment of money.
