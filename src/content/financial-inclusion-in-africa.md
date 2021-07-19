@@ -91,13 +91,13 @@ Fintech solutions have definitely altered the slow trajectory of financial inclu
 
 Affordable financial technology includes open-source products.They provide reliable, robust, and affordable solutions for entrepreneurs, financial institutions, and service providers to offer financial services to the world’s underbanked and unbanked population. They include both mobile and cloud-based solutions, which often enable digital transactions. Examples include:
 
-* Apache Fineract (https://fineract.apache.org/)
-* Finscale (https://www.finscale.org/)
-* Cyclos (https://www.cyclos.org/)
-* MyBanco (https://mybanco.org/)
-* OpenCBS (https://opencbs.com/)
-* OpenBank (https://www.openbank.es/)
-* Cobis (https://www.cobiscorp.com)
+* <a href="https://fineract.apache.org/" target="_blank">Apache Fineract</a>
+* <a href="https://www.finscale.org/" target="_blank">Finscale</a>
+* <a href="https://www.cyclos.org/" target="_blank">Cyclos</a>
+* <a href="https://mybanco.org/" target="_blank">MyBanco</a>
+* <a href="https://opencbs.com/" target="_blank">OpenCBS</a>
+* <a href="https://www.openbank.es/" target="_blank">OpenBank</a>
+* <a href="https://www.cobiscorp.com" target="_blank">Cobis</a>
 
 ## Status of the Fintech Industry in Cameroon
 As Africa experiences the highest rate of growth of digital consumerism in the world, Cameroon finds itself at the forefront of the continent’s technological boom. This rise of the fintech industry in Cameroon is quickly changing the landscape of the country, including the investment opportunities these companies are bringing in, as well as the digital financial services they provide. This could prove key to building Cameroon’s economy and improving the lives of many of its impoverished citizens.
@@ -111,6 +111,9 @@ The rise of mobile phone sales and internet expansion has led to FinTech startup
 * Orange and MTN have democratized mobile payments and remittances in Africa. They are the most used money banking service in Cameroon. These mobile operators introduced mobile money services in Cameroon in 2011. Not only did they usher people in a new way of life (as far as handling money is concerned) but also increased the rate of financial transactions. Besides, this has also brought the services and financial institutions closer to people, enabling access to financial services for all and at a lower cost.
 Mobile money also serves as an electronic wallet for users as they no longer need to move along with physical cash. Users can buy fuel, do shopping in supermarkets, get drinks in bars and snacks and pay using mobile money. Enterprises and institutions like Electricity supply company (ENEO), General Directorate of Taxation, CAMRAIL amongst others are also taking advantage of the technological revolution to facilitate revenue collection. Today, it is easier to pay electricity bills via mobile money with the enterprise attending to several clients at a time than the long and tiring queues at their counters.
 Orange and MTN Money Agents can be found on streets and in local neighborhoods.
+
+![](img/financial-inclusion-in-africa/img1.jpg)
+Photo by <a href="https://unsplash.com/@tamba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Edouard TAMBA</a> on <a href="https://unsplash.com/@tamba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 * Maviance, the owner of digital payment platform for merchants Smobilpay, raised a US$3 million seed round from pan-African fintech MFS Africa, Business in Cameroon reported in May. The investment will help fund Maviance’s expansion across the broader Economic and Monetary Community of Central African States (CEMAC) and extend its footprint. The company claims it serves over 500,000 unique customers monthly.
 
@@ -131,12 +134,11 @@ Besides digital payments and mobile money, other fintech segments are also prese
 
 ### Fintech Startups:
 
-* SEED (https://www.seeds.cm/)
-* FinTech Ltd (https://www.fintech.cm/)
-* ZuumPay
-* Guanxi Invest (https://www.guanxi-invest.com/)
-* Zito Financial (https://zitofinancial.cm/)
-* WazaPay (https://wazapay.net/)
+* <a href="https://www.seeds.cm/" target="_blank">SEED</a>
+* <a href="https://www.fintech.cm/" target="_blank">FinTech Ltd</a>
+* <a href="https://www.guanxi-invest.com/" target="_blank">Guanxi Invest</a>
+* <a href="https://zitofinancial.cm/" target="_blank">Zito Financial</a>
+* <a href="https://wazapay.net/" target="_blank">WazaPay</a>
 
 ### Why the phobia of Fintech
 Even though we can see a few fintech startups gaining grounds in Cameroon, they really have trouble making their way through the system. While some countries in the African continent are already on another stage of consuming banking, insurance, and credit, Cameroon is still at the nascent stage which is the transfer and payment of money.
@@ -160,6 +162,9 @@ Cameroon’s economy is rooted in agriculture, something found mostly in rural r
 
 While subsistence farming can provide a family with a self-sufficient method towards survival, their financial success is dependent on a non-hazardous climate and funding.
 Most farmers sell their products at the marketplace, where physical cash is exchanged for goods. Out of the 90 percent who do not own a bank account, the majority reported that they had no money to save or made no regular income.
+
+![](img/financial-inclusion-in-africa/img2.jpg)
+Photo by <a href="https://unsplash.com/@tamba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Edouard TAMBA</a> on <a href="https://unsplash.com/@tamba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ### A Need to Expand Credit Access in Cameroon
 There are currently around 840 or so accredited microfinance institutions in Cameroon [4]. The country’s loan performance has worsened due to the number of uninformed loans given to consumers. In 2018, the Risk Prevention Bureau for Microfinance (CREMF) was established as a system that helps these institutions track and disseminate the correct data on all their customers. This makes it somewhat easier for them to recover borrowed money. However, the challenge is still present: the majority of these microfinance institutions are in rural areas where a majority of these famers reside, but there is low internet connectivity. This makes it difficult to continue giving out loans to those who need them.
