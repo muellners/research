@@ -223,4 +223,4 @@ Decentralized social media platforms still have a long way to go before they can
 [16] Minds, https://www.minds.com/   
 [17] Decentralized Autonomous Organizations, https://blockchainhub.net/dao-decentralized-autonomous-organization/  
 
-[cover image attribution] : [https://unsplash.com/photos/5VJLeQ-TrKs](https://unsplash.com/photos/5VJLeQ-TrKs)
+[cover image attribution] : [https://unsplash.com/photos/EQSPI11rf68](https://unsplash.com/photos/EQSPI11rf68)
